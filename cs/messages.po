@@ -10343,7 +10343,7 @@ msgstr "Tvá hodnost"
 
 #: src/pages/user/[userId]/referrals.tsx:94
 msgid "Your referral link"
-msgstr "Váš referenční odkaz"
+msgstr "Tvůj referenční odkaz"
 
 #: src/components/_user/notification/notification.frontConfig.tsx:1385
 msgid "Your team <0/> has been eliminated from the <1/>"
@@ -10369,7 +10369,7 @@ msgstr "Tvoje týdenní mise byly resetovány! Dokonči je a získej odměny."
 
 #: src/components/_user/auth/ConnectFromModal.tsx:380
 msgid "your@email.com"
-msgstr "tvůj@email.com"
+msgstr "tvuj@email.com"
 
 #: src/components/_political/chat/ChatConversationsMenu.tsx:152
 #: src/components/_social/ArticleList.tsx:223
