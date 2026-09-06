@@ -10294,92 +10294,92 @@ msgid "Your luck is on vacation"
 msgstr "Your luck is on vacation"
 
 #: src/components/_military/mu/MuFormModal.tsx:106
-msgid "Your military unit name"
-msgstr "Your military unit name"
+msgid "Název tvojí vojenské jednotky"
+msgstr "Název tvojí vojenské jednotky"
 
 #: src/components/_military/mu/MuSettings.tsx:53
-msgid "Your military unit nationality is the country it represents. Changing it is free and can only be done once every {cooldownDays} days."
-msgstr "Your military unit nationality is the country it represents. Changing it is free and can only be done once every {cooldownDays} days."
+msgid "Národnost tvojí VJ určí zemi, kterou reprezentuje. Změna je zdarma a lze ji provést pouze jednou za {cooldownDays} dní."
+msgstr "Národnost tvojí VJ určí zemi, kterou reprezentuje. Změna je zdarma a lze ji provést pouze jednou za {cooldownDays} dní."
 
 #: src/components/_user/notification/notification.frontConfig.tsx:1725
-msgid "Your monthly missions have been reset! Complete them to earn rewards."
-msgstr "Your monthly missions have been reset! Complete them to earn rewards."
+msgid "Tvoje měsíční mise byly resetovány! Dokonči je a získej odměny."
+msgstr "Tvoje měsíční mise byly resetovány! Dokonči je a získej odměny."
 
 #: src/components/_military/mercenaryContract/BuyMercenaryReputationButton.tsx:49
-msgid "Your MU has <0/> reputation and cannot bid on mercenary contracts. Pay to buy back reputation (once per day)."
-msgstr "Your MU has <0/> reputation and cannot bid on mercenary contracts. Pay to buy back reputation (once per day)."
+msgid "Tvá VJ má reputaci <0/> a nemůže dražit žoldnéřské smlouvy. Kup si obnovení reputace (1x denně)."
+msgstr "Tvá VJ má reputaci <0/> a nemůže dražit žoldnéřské smlouvy. Kup si obnovení reputace (1x denně)."
 
 #: src/components/_military/tournament/TournamentRegisterButton.tsx:107
-msgid "Your MU is registered"
-msgstr "Your MU is registered"
+msgid "Tvoje VJ je registrována."
+msgstr "Tvoje VJ je registrována."
 
 #: src/components/_military/tournament/TournamentRegisterButton.tsx:141
-msgid "Your MU is registered for this tournament"
-msgstr "Your MU is registered for this tournament"
+msgid "Tvoje VJ je registrována do tohoto turnaje."
+msgstr "Tvoje VJ je registrována do tohoto turnaje."
 
 #: src/components/_military/mercenaryContract/MercenaryAuctionItem.tsx:230
-msgid "Your MU must have enough money to cover the acceptance fee to bid. Payment is only deducted if you win, and refunded on contract completion."
-msgstr "Your MU must have enough money to cover the acceptance fee to bid. Payment is only deducted if you win, and refunded on contract completion."
+msgid "Tvá VJ musí mít dost peněz na poplatek za nabídku. Platba se strhne jen při výhře a vrátí se po splnění kontraktu."
+msgstr "Tvá VJ musí mít dost peněz na poplatek za nabídku. Platba se strhne jen při výhře a vrátí se po splnění kontraktu."
 
 #: src/components/_economy/market/MarketHeader.tsx:14
-msgid "Your offers"
-msgstr "Your offers"
+msgid "Tvoje nabídky"
+msgstr "Tvoje nabídky"
 
 #: src/components/_political/party/PartyFormModal.tsx:96
-msgid "Your party name"
-msgstr "Your party name"
+msgid "Název tvojí politické strany"
+msgstr "Název tvojí politické strany"
 
 #: src/components/_user/notification/notification.frontConfig.tsx:1000
-msgid "Your premium subscription has been activated!"
-msgstr "Your premium subscription has been activated!"
+msgid "Tvoje prémiové předplatné bylo aktivováno!"
+msgstr "Tvoje prémiové předplatné bylo aktivováno!"
 
 #: src/components/_user/notification/notification.frontConfig.tsx:1009
-msgid "Your premium subscription has expired!"
-msgstr "Your premium subscription has expired!"
+msgid "Tvoje prémiové předplatné vypršelo!"
+msgstr "Tvoje prémiové předplatné vypršelo!"
 
 #: src/components/_military/damageRanking/DamageRankingList.tsx:195
-msgid "Your rank"
-msgstr "Your rank"
+msgid "Tvá hodnost"
+msgstr "Tvá hodnost"
 
 #: src/pages/user/[userId]/referrals.tsx:94
-msgid "Your referral link"
-msgstr "Your referral link"
+msgid "Váš referenční odkaz"
+msgstr "Váš referenční odkaz"
 
 #: src/components/_user/notification/notification.frontConfig.tsx:1385
-msgid "Your team <0/> has been eliminated from the <1/>"
-msgstr "Your team <0/> has been eliminated from the <1/>"
+msgid "Tvůj tým <0/> byl vyřazen z <1/>!"
+msgstr "Tvůj tým <0/> byl vyřazen z <1/>!"
 
 #: src/components/_user/notification/notification.frontConfig.tsx:1283
-msgid "Your team <0/> won a round in <1/>!"
-msgstr "Your team <0/> won a round in <1/>!"
+msgid "Tým <0/> vyhrál kolo v <1/>!"
+msgstr "Tým <0/> vyhrál kolo v <1/>!"
 
 #: src/pages/events/index.tsx:102
-msgid "Your team:"
-msgstr "Your team:"
+msgid "Tvůj tým:"
+msgstr "Tvůj tým:"
 
 #. placeholder {0}: data.oldWage
 #. placeholder {1}: data.newWage
 #: src/components/_user/notification/notification.frontConfig.tsx:458
-msgid "Your wage in <0/> changed from <1>{0}</1> to <2>{1}</2>"
-msgstr "Your wage in <0/> changed from <1>{0}</1> to <2>{1}</2>"
+msgid "Tvá mzda v <0/> se změnila z <1>{0}</1> na <2>{1}</2>."
+msgstr "Tvá mzda v <0/> se změnila z <1>{0}</1> na <2>{1}</2>."
 
 #: src/components/_user/notification/notification.frontConfig.tsx:1713
-msgid "Your weekly missions have been reset! Complete them to earn rewards."
-msgstr "Your weekly missions have been reset! Complete them to earn rewards."
+msgid "Tvoje týdenní mise byly resetovány! Dokonči je a získej odměny."
+msgstr "Tvoje týdenní mise byly resetovány! Dokonči je a získej odměny."
 
 #: src/components/_user/auth/ConnectFromModal.tsx:380
-msgid "your@email.com"
-msgstr "your@email.com"
+msgid "tvůj@email.com"
+msgstr "tvůj@email.com"
 
 #: src/components/_political/chat/ChatConversationsMenu.tsx:152
 #: src/components/_social/ArticleList.tsx:223
-msgid "Yours"
-msgstr "Yours"
+msgid "Tvé"
+msgstr "Tvé"
 
 #: src/components/_layout/LayoutLeftIcons.tsx:134
-msgid "Zoom in"
-msgstr "Zoom in"
+msgid "Přiblížit"
+msgstr "Přiblížit"
 
 #: src/components/_layout/LayoutLeftIcons.tsx:142
-msgid "Zoom out"
-msgstr "Zoom out"
+msgid "Oddálit"
+msgstr "Oddálit"
