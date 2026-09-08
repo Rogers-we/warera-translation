@@ -1073,11 +1073,11 @@ msgstr "2★ Chorąży"
 
 #: src/components/_common/GameRules.tsx:114
 msgid "3. Bots and Automation"
-msgstr ""
+msgstr "3. Boty i automatyzacja"
 
 #: src/components/_common/GameRules.tsx:234
 msgid "3. The following content, directly or implied, is strictly prohibited:"
-msgstr ""
+msgstr "3. Zabronione są następujące treści, opisane bezpośrednio lub dorozumiane:"
 
 #: src/components/_user/user/militaryRankings.frontConfig.tsx:139
 msgid "3★ Admiral"
@@ -1197,7 +1197,7 @@ msgstr ""
 
 #: src/components/_common/GameRules.tsx:300
 msgid "4. Community Behavior rules apply to every possible place within the game where people can write text and post content, as well as everywhere within the War Era Discord server"
-msgstr ""
+msgstr "4. Zasady dotyczące zachowania społeczności mają zastosowanie do wszystkich miejsc w grze umożliwiających wprowadzanie tekstu i publikację treści, jak również do całego serwera Discord War Era."
 
 #: src/components/_user/user/militaryRankings.frontConfig.tsx:152
 msgid "4★ General"
@@ -1274,7 +1274,7 @@ msgstr "W tym regionie znaleziono zasób strategiczny, daje on właścicielowi b
 
 #: src/components/_user/modals/PhoneVerificationModal.tsx:149
 msgid "A verification code has been sent to {phoneNumber}"
-msgstr ""
+msgstr "Kod weryfikacyjny został wysłany na numer {phoneNumber}"
 
 #: src/components/_common/GameRules.tsx:241
 msgid "a. Insults, slurs and targeted harassment"
@@ -1356,7 +1356,7 @@ msgstr "Akcje"
 
 #: src/components/_user/user/Level.tsx:170
 msgid "activated"
-msgstr ""
+msgstr "aktywowany"
 
 #: src/components/_military/battle/BattlesHeader.tsx:27
 #: src/components/_military/mercenaryContract/MercenaryAuctionList.tsx:134
@@ -1382,7 +1382,7 @@ msgstr "Aktywni obywatele"
 #. placeholder {0}: staticGameConfig.user.activeCitizenMinLevel
 #: src/components/_political/country/CountryHeader.tsx:195
 msgid "Active citizens (citizenship of this country, active and level {0}+)"
-msgstr ""
+msgstr "Aktywni obywatele (obywatele tego państwa, aktywni i z poziomem {0}+)"
 
 #: src/pages/region/[regionId]/index.tsx:212
 msgid "Active construction"
@@ -1398,7 +1398,7 @@ msgstr "Aktywne wojny"
 
 #: src/components/_military/mercenaryContract/MercenaryContractItemContent.tsx:179
 msgid "Activity"
-msgstr ""
+msgstr "Aktywność"
 
 #: src/components/_user/user/FamilyGroup.tsx:59
 msgid "Add User"
@@ -1409,7 +1409,7 @@ msgstr "Dodaj użytkownika"
 #: src/components/_political/partyMotion/PartyMotion.tsx:116
 #: src/components/_political/partyMotion/PartyMotionFormModal.tsx:170
 msgid "Additional cost"
-msgstr ""
+msgstr "Dodatkowe koszta"
 
 #: src/components/_layout/LayoutRightIcons.tsx:141
 #: src/components/_layout/MoreButtonNav.tsx:62
@@ -1464,7 +1464,7 @@ msgstr "Wszystkie kategorie"
 #: src/components/_political/party/party.frontConfig.tsx:338
 #: src/components/_political/party/party.frontConfig.tsx:359
 msgid "All coca, grain, livestock and fish deposits in your borders give <0>+{0}</0> more production bonus."
-msgstr ""
+msgstr "Wszystkie złoża koki, zboża, bydła i ryb w twoich granicach dają <0>+{0}</0> dodatkowej premii do produkcji"
 
 #. placeholder {0}: formatPercent(ethicsBonuses.industrialism[1].specializationBonus)
 #. placeholder {0}: formatPercent(ethicsBonuses.industrialism[2].specializationBonus)
@@ -1491,24 +1491,24 @@ msgstr ""
 
 #: src/pages/party/[partyId]/index.tsx:113
 msgid "All Parties"
-msgstr ""
+msgstr "Wszystkie Partie"
 
 #: src/components/_military/mercenaryContract/CreateAuctionModal.tsx:202
 msgid "All rounds"
-msgstr ""
+msgstr "Wszystkie rundy"
 
 #: src/components/_other/shop/SkinPackModal.tsx:269
 msgid "All skins owned"
-msgstr ""
+msgstr "Wsszystkie posiadane skórki"
 
 #: src/components/_common/GameRules.tsx:103
 msgid "All transactions must stay fair and balanced."
-msgstr ""
+msgstr "Wszystkie transakcje muszą pozostać uczciwe i zbalansowane."
 
 #. placeholder {0}: formatMultiplierDelta( ethicsBonuses.isolationism['-2'].treatyMaintenanceMultiplier, )
 #: src/components/_political/party/party.frontConfig.tsx:161
 msgid "All treaty maintenance costs are increased by <0>{0}</0>."
-msgstr ""
+msgstr "Utrzymanie wszystkich traktatów kosztuje o <0>{0}</0> więcej."
 
 #: src/components/_economy/transaction/TransactionList.tsx:70
 msgid "All types"
@@ -1521,15 +1521,15 @@ msgstr "Wszystkie typy"
 #: src/components/_political/country/CountryTooltip.tsx:109
 #: src/components/_political/map/MapMenu.tsx:336
 msgid "Alliance"
-msgstr ""
+msgstr "Sojusz"
 
 #: src/components/_political/alliance/AllianceBattleBonus.tsx:70
 msgid "Alliance <0/> (<1/>)"
-msgstr ""
+msgstr "Alliance <0/> (<1/>)"
 
 #: src/components/_political/alliance/AllianceBattleBonus.tsx:94
 msgid "Alliance battle damage bonus"
-msgstr ""
+msgstr "Premia do obrażeń bitewnych sojuszu"
 
 #: src/components/_political/event/EventList.tsx:118
 msgid "Alliance broken"
@@ -1551,7 +1551,7 @@ msgstr ""
 #: src/components/_political/law/LawFormModal.tsx:202
 #: src/components/_political/law/LawFormModal.tsx:203
 msgid "Alliance name"
-msgstr ""
+msgstr "Nazwa sojuszu"
 
 #: src/components/_military/battle/ActiveBattlesList.tsx:100
 #: src/components/_military/battle/ActiveBattlesList.tsx:154
@@ -1581,7 +1581,7 @@ msgstr "Amunicja"
 
 #: src/components/_user/user/SkillValue.tsx:166
 msgid "Ammo:"
-msgstr ""
+msgstr "Amunicja:"
 
 #: src/components/_political/law/LawFormModal.tsx:276
 #: src/components/_political/law/LawFormModal.tsx:277
@@ -1603,19 +1603,19 @@ msgstr "Liczba firm, które możesz posiadać"
 #. placeholder {0}: data.refund
 #: src/components/_user/notification/notification.frontConfig.tsx:1601
 msgid "An admin cancelled the contract. <0>{0}</0> returned to <1/>."
-msgstr ""
+msgstr "Admin anulował kontrakt. <0>{0}</0> zwrócono do <1/>"
 
 #: src/components/_political/event/event.frontConfig.tsx:337
 msgid "An alliance has been broken"
-msgstr ""
+msgstr "Zerwano sojusz"
 
 #: src/components/_political/event/event.frontConfig.tsx:322
 msgid "An alliance has been formed"
-msgstr ""
+msgstr "Utworzono sojusz"
 
 #: src/components/_political/law/law.frontConfig.tsx:379
 msgid "An alliance has invited your country to join"
-msgstr ""
+msgstr "Sojusz zaprosił twój kraj do członkostwa"
 
 #: src/components/_political/alliance/AllianceBattleBonus.tsx:46
 msgid "An alliance's battle <0>damage</0> bonus depends on its share of the world's total <1>Development</1>."
@@ -1635,7 +1635,7 @@ msgstr ""
 
 #: src/components/_political/law/law.frontConfig.tsx:282
 msgid "Another country proposed a defensive pact to yours"
-msgstr ""
+msgstr "Inny kraj złożył propozycję paktu obronnego"
 
 #: src/components/_other/shop/skinPack.frontConfig.tsx:40
 msgid "Anti Terrorist Pack"
@@ -1643,7 +1643,7 @@ msgstr ""
 
 #: src/components/_common/GameRules.tsx:105
 msgid "Any attempts to bypass these rules can result in the removal of sharing status, fines and temporary or permanent bans."
-msgstr ""
+msgstr "Próby ominięcia niniejszych regulacji mogą prowadzić do odebrania uprawnień do udostępniania, nałożenia grzywny oraz tymczasowego lub trwałego zablokowania konta."
 
 #: src/components/_user/apiToken/ApiTokenList.tsx:40
 msgid "API token created"
@@ -1667,15 +1667,15 @@ msgstr "Tokeny API pozwalają zewnętrznym aplikacjom na dostęp do API w Twoim 
 
 #: src/components/_layout/LayoutOptions.tsx:289
 msgid "App pattern"
-msgstr "Wzór aplikacji"
+msgstr "Deseń aplikacji"
 
 #: src/pages/user/[userId]/settings.tsx:108
 msgid "App settings"
-msgstr ""
+msgstr "Ustawienia aplikacji"
 
 #: src/pages/user/[userId]/settings.tsx:81
 msgid "Appearance"
-msgstr ""
+msgstr "Wygląd"
 
 #: src/components/_economy/transaction/TransactionList.tsx:80
 msgid "Application fee"
@@ -1693,7 +1693,7 @@ msgstr "Zastosuj"
 
 #: src/utils/translations.tsx:275
 msgid "Approved"
-msgstr ""
+msgstr "Zatwierdzony"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:182
 msgid "Arcane Boots"
@@ -1701,11 +1701,11 @@ msgstr ""
 
 #: src/components/_economy/inventory/ConsumeItems.tsx:236
 msgid "Are you sure you want to consume pill?"
-msgstr ""
+msgstr "Jesteś pewien, że chcesz wziąć pigułkę?"
 
 #: src/components/_military/mu/MuMemberList.tsx:154
 msgid "Are you sure you want to demote this commander?"
-msgstr ""
+msgstr "Jesteś pewien, że chcesz zdegradować tego dowódcę?"
 
 #: src/components/_user/worker/WorkerEditFormModal.tsx:113
 msgid "Are you sure you want to fire this worker?"
@@ -1713,7 +1713,7 @@ msgstr "Czy na pewno chcesz zwolnić tego pracownika?"
 
 #: src/components/_military/mu/MuMemberList.tsx:140
 msgid "Are you sure you want to kick this member?"
-msgstr ""
+msgstr "Jesteś pewien, że chcesz wyrzucić tego członka?"
 
 #: src/pages/country/[countryId]/government.tsx:111
 msgid "Are you sure you want to leave the congress?"
@@ -1725,11 +1725,11 @@ msgstr "Czy na pewno chcesz opuścić rząd?"
 
 #: src/components/_military/mercenaryContract/MercenaryAuctionItem.tsx:138
 msgid "Are you sure you want to place this bid?"
-msgstr ""
+msgstr "Czy na pewno chcesz złożyć tą ofertę?"
 
 #: src/components/_military/mu/MuMemberList.tsx:147
 msgid "Are you sure you want to promote this member to commander?"
-msgstr ""
+msgstr "Jesteś pewien, że chcesz awansować tego członka na dowódcę?"
 
 #: src/pages/market/index.tsx:196
 msgid "Are you sure you want to remove all buy orders?"
@@ -1741,7 +1741,7 @@ msgstr "Czy na pewno chcesz usunąć wszystkie zamówienia sprzedaży?"
 
 #: src/components/_social/announcement/Announcement.tsx:133
 msgid "Are you sure you want to remove this announcement? Its comments will be deleted too."
-msgstr ""
+msgstr "Czy na pewno chcesz usunąć to ogłoszenie? Komentarze także zostaną usuniętę."
 
 #: src/components/_user/mission/MissionItem.tsx:119
 msgid "Are you sure you want to reroll this mission? Your current progress will be lost."
@@ -1758,7 +1758,7 @@ msgstr "Czy na pewno chcesz pominąć ten samouczek?"
 
 #: src/components/_military/mu/MuMemberList.tsx:162
 msgid "Are you sure you want to transfer ownership to this member? This action cannot be undone."
-msgstr ""
+msgstr "Czy na pewno chcesz przenieść własność na tego członka? Tego działa nie można cofnąć."
 
 #: src/components/_user/user/skills.frontConfig.tsx:71
 #: src/components/_user/user/skills.frontConfig.tsx:72
@@ -1861,7 +1861,7 @@ msgstr "Po zakończeniu odliczania <0>{actualTickPoints}</0> zostanie przyznane 
 
 #: src/components/_political/country/CountryTooltip.tsx:141
 msgid "At war with"
-msgstr ""
+msgstr "W stanie wojny z"
 
 #: src/components/_military/hit/HitButton.tsx:470
 #: src/components/_political/map/MapMenu.tsx:344
@@ -1872,7 +1872,7 @@ msgstr "Atak"
 
 #: src/components/_user/user/MilitaryRank.tsx:111
 msgid "Attack bonus:"
-msgstr ""
+msgstr "Bonus do ataku:"
 
 #: src/components/_military/mercenaryContract/CreateAuctionModal.tsx:193
 #: src/components/_military/war/WarComparison.tsx:41
@@ -1885,25 +1885,25 @@ msgstr "Atakujący"
 
 #: src/components/_military/mercenaryContract/CreateAuctionModal.tsx:175
 msgid "Auction Duration (minutes)"
-msgstr ""
+msgstr "Długość Aukcji (minuty)"
 
 #: src/components/_user/notification/notification.frontConfig.tsx:2144
 msgid "Auction Outbid"
-msgstr ""
+msgstr "Przebito twoją ofertę"
 
 #: src/components/_military/mercenaryContract/MercenaryContractItemContent.tsx:218
 msgid "Auction Won"
-msgstr ""
+msgstr "Aukcja Wygrana"
 
 #: src/components/_military/battle/BattleHeader.tsx:301
 #: src/components/_military/battle/BattlesHeader.tsx:39
 #: src/components/_military/battle/BattleSideContractsModal.tsx:37
 msgid "Auctions"
-msgstr ""
+msgstr "Aukcje"
 
 #: src/components/_user/auth/ConnectFromModal.tsx:155
 msgid "Authentication failed. Please try again."
-msgstr ""
+msgstr "Uwierzytelnianie nie powiodło się. Spróbuj ponownie."
 
 #: src/pages/country/[countryId]/citizenship.tsx:47
 msgid "Auto approval"
@@ -1912,7 +1912,7 @@ msgstr "Automatyczne zatwierdzanie"
 #: src/components/_layout/LayoutOptions.tsx:222
 #: src/components/_user/kits/KitsPopover.tsx:220
 msgid "Auto-equip when item breaks"
-msgstr ""
+msgstr "Auto-wyposażenie po zniszczeniu przedmiotu"
 
 #: src/components/_economy/company/CompanyTags.tsx:89
 msgid "Auto-generates <0>Production Points</0> over time, without the need to work."
@@ -1920,7 +1920,7 @@ msgstr "Automatycznie generuje z czasem <0>Punkty Produkcji</0>, bez potrzeby pr
 
 #: src/components/_economy/inventory/ConsumeItems.tsx:293
 msgid "Autobuy when empty"
-msgstr ""
+msgstr "Auto-zakup po wyczerpaniu"
 
 #: src/components/_economy/company/CompanyTags.tsx:87
 msgid "Automated engine"
@@ -1933,7 +1933,7 @@ msgstr "Automatyczny Silnik"
 
 #: src/components/_user/mission/MissionsList.tsx:322
 msgid "Available now"
-msgstr ""
+msgstr "Dostępny teraz"
 
 #: src/components/_user/user/UserDropdown.tsx:148
 msgid "Avatar removed"
@@ -1956,7 +1956,7 @@ msgstr ""
 
 #: src/components/_layout/LayoutOptions.tsx:170
 msgid "Background pattern"
-msgstr ""
+msgstr "Deseń tła"
 
 #: src/components/_user/referral/ReferralList.tsx:111
 msgid "Badge won"
@@ -1993,7 +1993,7 @@ msgstr "Zbanowany"
 
 #: src/components/_user/notification/notification.frontConfig.tsx:1985
 msgid "Banner Accepted!"
-msgstr ""
+msgstr "Baner zaakceptowany"
 
 #: src/components/_user/notification/notification.frontConfig.tsx:1982
 msgid "Banner gift received"
@@ -2005,7 +2005,7 @@ msgstr "Baner wysłany jako prezent"
 
 #: src/components/_other/shop/ShopHeader.tsx:37
 msgid "Banners"
-msgstr ""
+msgstr "Banery"
 
 #: src/components/_user/user/UserHeader.tsx:206
 #: src/components/_user/user/UserHeader.tsx:272
@@ -2014,7 +2014,7 @@ msgstr "Bany"
 
 #: src/components/_political/law/LawCostExplanation.tsx:38
 msgid "Base cost"
-msgstr ""
+msgstr "Koszt bazowy"
 
 #: src/utils/translations.tsx:204
 msgid "Basic Boots"
@@ -2043,7 +2043,7 @@ msgstr "Bitwa"
 
 #: src/components/_military/battle/MyBattlesRecapCard.tsx:178
 msgid "Battle by battle"
-msgstr ""
+msgstr "Bitwa po bitwie"
 
 #: src/pages/alliance/[allianceId]/index.tsx:41
 msgid "Battle damage bonus"
@@ -2060,15 +2060,15 @@ msgstr ""
 
 #: src/components/_user/badgeCollection/badgeCollection.frontConfig.tsx:73
 msgid "Battle Hero"
-msgstr ""
+msgstr "Bohater Bitwy"
 
 #: src/components/_military/damageRanking/BattleLoot.tsx:60
 msgid "Battle loot"
-msgstr ""
+msgstr "Łup bitewny"
 
 #: src/components/_military/damageRanking/BattleLoot.tsx:90
 msgid "Battle loot pool"
-msgstr ""
+msgstr "Pula łupu bitewnego"
 
 #: src/components/_political/event/EventList.tsx:107
 msgid "Battle opened"
@@ -2139,7 +2139,7 @@ msgstr "Zostań kandydatem"
 #: src/components/_layout/LayoutOptions.tsx:242
 #: src/components/_user/kits/KitsPopover.tsx:244
 msgid "Best"
-msgstr ""
+msgstr "Najlepszy"
 
 #: src/components/_economy/inventory/case/cases.frontConfig.tsx:37
 msgid "Better than nothing, right?"
@@ -2151,7 +2151,7 @@ msgstr ""
 
 #: src/components/_political/region/RegionHeader.tsx:132
 msgid "Biome"
-msgstr ""
+msgstr "Typ terenu"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:8
 msgid "Birthday Hat for 1st year of Beta"
@@ -2167,7 +2167,7 @@ msgstr ""
 
 #: src/components/_layout/LayoutOptions.tsx:162
 msgid "Blur"
-msgstr ""
+msgstr "Rozmycie"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:242
 msgid "Bone Club"
@@ -2231,7 +2231,7 @@ msgstr ""
 
 #: src/components/_military/mercenaryContract/CreateAuctionModal.tsx:151
 msgid "Budget"
-msgstr ""
+msgstr "Budżet"
 
 #: src/components/_user/notification/notification.frontConfig.tsx:2149
 msgid "Buff ended"
@@ -2240,11 +2240,11 @@ msgstr "Buff zakończony"
 #: src/components/_user/user/UserHeader.tsx:341
 #: src/components/_user/user/UserTooltip.tsx:140
 msgid "Buff ends"
-msgstr ""
+msgstr "Buff kończy się"
 
 #: src/components/_user/notification/notification.frontConfig.tsx:2147
 msgid "Buff expiring soon"
-msgstr ""
+msgstr "Buff dobiega końca"
 
 #: src/components/_user/notification/notification.frontConfig.tsx:2145
 msgid "Buff started"
@@ -2252,7 +2252,7 @@ msgstr "Buff rozpoczęty"
 
 #: src/components/_user/user/SkillValue.tsx:198
 msgid "Buffs:"
-msgstr ""
+msgstr "Buffy:"
 
 #: src/components/_user/badgeCollection/badgeCollection.frontConfig.tsx:123
 msgid "Bug finder"
@@ -2273,20 +2273,20 @@ msgstr "Utwórz jednostkę wojskową"
 
 #: src/components/_other/upgrade/upgrade.frontConfig.tsx:31
 msgid "Bunker"
-msgstr ""
+msgstr "Bunkier"
 
 #: src/components/_military/mercenaryContract/BuyMercenaryReputationButton.tsx:71
 msgid "Buy <0/>"
-msgstr ""
+msgstr "Kup <0/>"
 
 #. placeholder {0}: law.data.amount ?? 0
 #: src/components/_political/law/law.frontConfig.tsx:471
 msgid "Buy <0/> from <1/> for <2>{0}</2>"
-msgstr ""
+msgstr "Kup <0/> od <1/> za <2>{0}</2>"
 
 #: src/components/_user/mission/mission.frontConfig.tsx:189
 msgid "Buy for <0/> money on market"
-msgstr ""
+msgstr "Kup za <0/> na rynku"
 
 #: src/components/_user/mission/mission.frontConfig.tsx:187
 msgid "Buy Items"
@@ -2299,7 +2299,7 @@ msgstr "Zamówienia kupna"
 
 #: src/components/_user/auth/ConnectFromModal.tsx:408
 msgid "By continuing, you agree to our <0>Terms of Service</0>."
-msgstr ""
+msgstr "Kontynuując, zgadzasz się z naszymi <0>Terms of Service</0>"
 
 #. placeholder {0}: worker.fidelity ?? 0
 #: src/components/_user/worker/WageReductionAlert.tsx:56
@@ -2312,7 +2312,7 @@ msgstr ""
 
 #: src/components/_common/GameRules.tsx:250
 msgid "c. Sexual, explicit or suggestive remarks, comments, images or content"
-msgstr ""
+msgstr "c. c. Uwagi, komentarze, obrazy lub treści o charakterze seksualnym, jednoznacznym lub sugestywnym"
 
 #: src/components/_user/user/militaryRankings.frontConfig.tsx:26
 msgid "Cadet"
@@ -2338,7 +2338,7 @@ msgstr "Anuluj w każdej chwili"
 #: src/components/_military/mercenaryContract/AdminDeleteContractModal.tsx:43
 #: src/components/_military/mercenaryContract/AdminDeleteContractModal.tsx:64
 msgid "Cancel Contract"
-msgstr ""
+msgstr "Anuluj Kontrakt"
 
 #: src/components/_military/mercenaryContract/MercenaryContractItem.tsx:84
 #: src/components/_military/mercenaryContract/MercenaryContractModal.tsx:63
@@ -2350,19 +2350,19 @@ msgstr ""
 #: src/pages/events/index.tsx:156
 #: src/utils/translations.tsx:267
 msgid "Cancelled"
-msgstr ""
+msgstr "Anulowany"
 
 #: src/utils/translations.tsx:268
 msgid "Cancelled by admin"
-msgstr ""
+msgstr "Anulowany przez admina"
 
 #: src/components/_military/mercenaryContract/MercenaryContractItemContent.tsx:238
 msgid "Cancelled by Admin"
-msgstr ""
+msgstr "Anulowany przez Admina"
 
 #: src/components/_political/message/systemMessage.frontConfig.tsx:155
 msgid "Candidacy is open for <0/>"
-msgstr ""
+msgstr "Kandydatura jest otwarta za <0/>"
 
 #: src/components/_political/election/CandidateFormModal.tsx:87
 msgid "Candidate"
@@ -2374,7 +2374,7 @@ msgstr "Nie może mieć wiceprezydenta ani ministrów."
 
 #: src/components/_political/party/party.frontConfig.tsx:425
 msgid "Cannot have any treaty (sworn enemy, defensive pact or alliance)."
-msgstr ""
+msgstr "Brak możliwości posiadania jakichkolwiek traktatów (zaprzysiężony  wróg, pakt obronny lub sojusz)"
 
 #: src/components/_political/party/party.frontConfig.tsx:67
 msgid "Cannot have sworn enemies."
@@ -2386,11 +2386,11 @@ msgstr ""
 
 #: src/components/_political/region/RegionTooltip.tsx:68
 msgid "Capital"
-msgstr ""
+msgstr "Stolica"
 
 #: src/components/_political/region/RegionHeader.tsx:124
 msgid "Capital of"
-msgstr ""
+msgstr "Stolica"
 
 #: src/components/_user/user/militaryRankings.frontConfig.tsx:91
 msgid "Captain"
@@ -2422,7 +2422,7 @@ msgstr "Skrzynki zawierają losowe przedmioty. Kliknij, aby otworzyć!"
 
 #: src/components/_user/user/UserRankingsPanel.tsx:104
 msgid "Cases opened"
-msgstr ""
+msgstr "Skrzynka otwarta"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:92
 msgid "Catapult"
@@ -2447,7 +2447,7 @@ msgstr "Szansa na trafienie celu.<0/>Pudła nie mogą być krytyczne i zadają p
 #. placeholder {0}: law.data.taxType
 #: src/components/_political/law/law.frontConfig.tsx:65
 msgid "Change {0} tax to <0/>"
-msgstr ""
+msgstr "Zamień {0} podatku na <0/>"
 
 #: src/components/_political/law/law.frontConfig.tsx:61
 msgid "Change a country tax"
@@ -2456,16 +2456,16 @@ msgstr "Zmień podatek krajowy"
 #: src/components/_political/alliance/alliance.frontConfig.tsx:19
 #: src/components/_political/allianceLaw/allianceLaw.frontConfig.tsx:141
 msgid "Change color"
-msgstr ""
+msgstr "Zmień kolor"
 
 #. placeholder {0}: data.newScheme
 #: src/components/_political/allianceLaw/allianceLaw.frontConfig.tsx:149
 msgid "Change color to <0>{0}</0>"
-msgstr ""
+msgstr "Zmień kolor na <0>{0}</0>"
 
 #: src/components/_military/mu/MuSettings.tsx:89
 msgid "Change nationality"
-msgstr ""
+msgstr "Zmień narodowość"
 
 #: src/components/_economy/company/CompanyChangeItemFormModal.tsx:65
 #: src/components/_economy/company/CompanyChangeItemFormModal.tsx:85
@@ -2484,11 +2484,11 @@ msgstr "Zmień podatek"
 #. placeholder {0}: data.newScheme
 #: src/components/_political/allianceLaw/allianceLaw.frontConfig.tsx:158
 msgid "Change the alliance color scheme to <0>{0}</0> immediately on acceptance."
-msgstr ""
+msgstr "Zmień schemat kolorów sojuszu na <0>{0}</0> natychmiast po zaakceptowaniu."
 
 #: src/components/_political/allianceLaw/allianceLaw.frontConfig.tsx:142
 msgid "Change the color scheme of the alliance."
-msgstr ""
+msgstr "Zmień schemat kolorów sojuszu."
 
 #: src/components/_political/law/law.frontConfig.tsx:545
 msgid "Change the country color scheme"
@@ -2502,7 +2502,7 @@ msgstr "Zmień schemat kolorów kraju na <0>{0}</0> z akcentem mapy <1>{1}</1>"
 
 #: src/components/_political/allianceLaw/allianceLaw.frontConfig.tsx:121
 msgid "Change the name of the alliance."
-msgstr ""
+msgstr "Zmień nazwę sojuszu"
 
 #. placeholder {0}: law.data.taxType
 #: src/components/_political/law/law.frontConfig.tsx:76
@@ -2528,11 +2528,11 @@ msgstr "Naczelny Dowódca"
 
 #: src/components/_user/user/UserColorSchemeModal.tsx:11
 msgid "Choose Color Scheme"
-msgstr ""
+msgstr "Wybierz schemat kolorów"
 
 #: src/components/_user/user/UserFontModal.tsx:11
 msgid "Choose Font"
-msgstr ""
+msgstr "Wybierz czcionkę"
 
 #: src/components/_user/auth/WelcomeModal.tsx:145
 msgid "Choose your country"
@@ -2544,11 +2544,11 @@ msgstr "Wybierz stronę i kliknij, aby zadać <0>Obrażenia</0>! Kontynuuj atako
 
 #: src/components/_economy/inventory/CraftModal.tsx:374
 msgid "Choosing a specific item costs ×2 steel:"
-msgstr ""
+msgstr "Wybór konkretnego przedmiotu kosztuje ×2 stali"
 
 #: src/components/_user/user/UserHeader.tsx:322
 msgid "Citizen since"
-msgstr ""
+msgstr "Obywatel od"
 
 #: src/components/_political/country/CountryHeader.tsx:144
 #: src/components/_political/country/CountryHeader.tsx:191
@@ -2590,7 +2590,7 @@ msgstr "Odebrano"
 #: src/components/_user/milestone/MilestoneItem.tsx:151
 #: src/components/_user/milestone/MilestoneTiersModal.tsx:143
 msgid "Claimed so far"
-msgstr ""
+msgstr "Zebrano do tej pory"
 
 #: src/components/_political/country/CountrySelectV2.tsx:278
 msgid "Clear selection"
@@ -2614,7 +2614,7 @@ msgstr "Kliknij, aby aplikować i zacznij zarabiać od razu."
 
 #: src/components/_economy/inventory/ConsumeItems.tsx:180
 msgid "Click to consume."
-msgstr ""
+msgstr "Kliknij, aby zjeść"
 
 #: src/components/_other/tour/tuto.frontConfig.tsx:98
 msgid "Click to reveal what's inside. You might get something valuable!"
@@ -2623,7 +2623,7 @@ msgstr "Kliknij, aby zobaczyć, co jest w środku. Możesz dostać coś wartośc
 #: src/components/_political/allianceLaw/AllianceLawTypeSelect.tsx:41
 #: src/components/_political/law/LawTypeSelect.tsx:60
 msgid "Click to select law"
-msgstr ""
+msgstr "Kliknij, aby wybrać prawo"
 
 #: src/components/_political/partyMotion/PartyMotionTypeSelect.tsx:50
 msgid "Click to select motion"
@@ -2656,7 +2656,7 @@ msgstr "Schemat kolorów"
 
 #: src/components/_user/user/UserColorSchemeSelector.tsx:39
 msgid "Color scheme updated"
-msgstr ""
+msgstr "Schemat kolorów zaktualizowany"
 
 #: src/components/_user/user/UserColorSchemeSelector.tsx:64
 msgid "Color schemes are a Supporter Plan feature."
@@ -2664,7 +2664,7 @@ msgstr ""
 
 #: src/components/_layout/LayoutOptions.tsx:194
 msgid "Colorblind mode"
-msgstr ""
+msgstr "Tryb dla daltonistów"
 
 #: src/components/_military/mu/MuMemberList.tsx:327
 #: src/components/_user/user/militaryRankings.frontConfig.tsx:155
@@ -2686,7 +2686,7 @@ msgstr "Komodor"
 
 #: src/components/_user/badgeCollection/badgeCollection.frontConfig.tsx:147
 msgid "Community"
-msgstr ""
+msgstr "Społeczność"
 
 #: src/components/_layout/LayoutMenu.tsx:174
 #: src/components/_user/user/MyAvatar.tsx:48
@@ -2735,7 +2735,7 @@ msgstr "Firma przemianowana!"
 
 #: src/components/_economy/company/CompanyDropdown.tsx:149
 msgid "Company upgraded!"
-msgstr ""
+msgstr "Firma ulepszona!"
 
 #: src/components/_other/tour/tuto.frontConfig.tsx:192
 msgid "Complete missions daily to earn XP and level up faster. Click to claim!"
@@ -2745,7 +2745,7 @@ msgstr "Wykonuj misje codziennie, aby zdobywać XP i awansować szybciej. Klikni
 #: src/components/_user/milestone/MilestoneItem.tsx:327
 #: src/utils/translations.tsx:270
 msgid "Completed"
-msgstr ""
+msgstr "Ukończony"
 
 #: src/utils/translations.tsx:29
 msgid "Concrete"
@@ -2798,7 +2798,7 @@ msgstr "Gratulacje! Twoja drużyna <0/> wygrała turniej <1/>!"
 
 #: src/components/_political/election/election.frontConfig.tsx:28
 msgid "Congress election"
-msgstr ""
+msgstr "Wybory do kongresu"
 
 #: src/components/_user/notification/notification.frontConfig.tsx:141
 msgid "Congress election candidacy is now open in <0/>"
@@ -2818,7 +2818,7 @@ msgstr "Wybory parlamentarne"
 
 #: src/components/_user/badgeCollection/badgeCollection.frontConfig.tsx:57
 msgid "Congress Member"
-msgstr ""
+msgstr "Członek Kongresu"
 
 #: src/pages/country/[countryId]/government.tsx:72
 msgid "Congress members"
@@ -2834,7 +2834,7 @@ msgstr ""
 
 #: src/components/_user/auth/ConnectFromModal.tsx:355
 msgid "Connect with Google"
-msgstr ""
+msgstr "Połącz z Google"
 
 #: src/pages/country/[countryId]/regions.tsx:43
 msgid "Conquered regions"
@@ -2872,19 +2872,19 @@ msgstr "Granice kontekstowe"
 
 #: src/components/_user/notification/notification.frontConfig.tsx:2136
 msgid "Contract cancelled"
-msgstr ""
+msgstr "Kontrakt anulowany"
 
 #: src/components/_user/notification/notification.frontConfig.tsx:2133
 msgid "Contract completed"
-msgstr ""
+msgstr "Kontrakt wykonany"
 
 #: src/components/_user/notification/notification.frontConfig.tsx:2139
 msgid "Contract expired"
-msgstr ""
+msgstr "Kontrakt wygasł"
 
 #: src/components/_user/notification/notification.frontConfig.tsx:2142
 msgid "Contract rolled back"
-msgstr ""
+msgstr "Kontrakt cofnięty"
 
 #: src/components/_military/battle/BattleHeader.tsx:308
 #: src/components/_military/battle/BattlesHeader.tsx:45
@@ -2918,7 +2918,7 @@ msgstr "Czas odnowienia"
 
 #: src/components/_user/badgeCollection/Badge.tsx:76
 msgid "Cooldown: {cooldownDays} days"
-msgstr ""
+msgstr "Czas odnowy: {cooldownDays} dni"
 
 #: src/components/_user/apiToken/ApiTokenList.tsx:90
 #: src/components/_user/userReports/UserReportListItem.tsx:106
@@ -2954,11 +2954,11 @@ msgstr "Kapral"
 
 #: src/components/_user/badgeCollection/badgeCollection.frontConfig.tsx:229
 msgid "Council Member"
-msgstr ""
+msgstr "Członek Rady"
 
 #: src/components/_political/partyMotion/PartyMotionFormModal.tsx:132
 msgid "Council member to remove"
-msgstr ""
+msgstr "Członek rady do usunięcia"
 
 #: src/components/_other/shop/skinPack.frontConfig.tsx:41
 msgid "Counter-strike the enemy"
@@ -2990,15 +2990,15 @@ msgstr "Bonus dochodu z rozwoju kraju"
 
 #: src/components/_political/event/EventList.tsx:129
 msgid "Country excluded from alliance"
-msgstr ""
+msgstr "Kraj wykluczony z sojuszu"
 
 #: src/components/_political/event/EventList.tsx:121
 msgid "Country joined alliance"
-msgstr ""
+msgstr "Kraj dołączył do sojuszu"
 
 #: src/components/_political/event/EventList.tsx:125
 msgid "Country left alliance"
-msgstr ""
+msgstr "Kraj opuścił sojusz"
 
 #: src/components/_economy/transaction/TransactionList.tsx:102
 msgid "Country Money Transfer"
@@ -3015,7 +3015,7 @@ msgstr ""
 
 #: src/components/_user/badgeCollection/badgeCollection.frontConfig.tsx:51
 msgid "Country President"
-msgstr ""
+msgstr "Prezydent Kraju"
 
 #: src/pages/country/[countryId]/index.tsx:346
 msgid "Country production bonus"
@@ -3044,7 +3044,7 @@ msgstr "Wytwórz"
 
 #: src/components/_user/mission/mission.frontConfig.tsx:209
 msgid "Craft <0/> items"
-msgstr ""
+msgstr "Wytwórz <0/> przedmiotów"
 
 #: src/components/_economy/transaction/TransactionList.tsx:92
 msgid "Craft Item"
@@ -3063,7 +3063,7 @@ msgstr "Utwórz firmę"
 #. placeholder {1}: law.data.scheme
 #: src/components/_political/law/law.frontConfig.tsx:342
 msgid "Create a new alliance named <0>{0}</0> with <1>{1}</1> color scheme."
-msgstr ""
+msgstr "Utwórz nowy sojusz nazwany <0>{0}</0> ze schematem kolorów <1>{1}</1>"
 
 #: src/components/_user/mission/mission.frontConfig.tsx:370
 msgid "Create a new company"
@@ -3077,12 +3077,12 @@ msgstr "Utwórz partię"
 #: src/components/_political/law/law.frontConfig.tsx:331
 #: src/components/_political/law/lawNames.tsx:25
 msgid "Create alliance"
-msgstr ""
+msgstr "Stwórz sojusz"
 
 #. placeholder {0}: law.data.name
 #: src/components/_political/law/law.frontConfig.tsx:336
 msgid "Create alliance {0}"
-msgstr ""
+msgstr "Stwórz sojusz {0}"
 
 #: src/components/_user/apiToken/ApiTokenList.tsx:240
 msgid "Create API Token"
@@ -3090,11 +3090,11 @@ msgstr "Utwórz Token API"
 
 #: src/components/_military/battle/BattleOrderActionsDropdown.tsx:158
 msgid "Create auction"
-msgstr ""
+msgstr "Stwórz aukcje"
 
 #: src/components/_military/mercenaryContract/CreateAuctionModal.tsx:233
 msgid "Create Auction"
-msgstr ""
+msgstr "Stwórz Aukcje"
 
 #: src/components/_military/mercenaryContract/CreateAuctionModal.tsx:130
 msgid "Create Mercenary Auction"
@@ -3146,7 +3146,7 @@ msgstr "Aktualna jednostka wojskowa"
 
 #: src/components/_military/mu/MuSettings.tsx:61
 msgid "Current nationality"
-msgstr ""
+msgstr "Obecna narodowość"
 
 #: src/components/_military/battle/BattleSystem.tsx:642
 msgid "Current tick:"
@@ -3162,7 +3162,7 @@ msgstr "Aktualny wynik:"
 
 #: src/components/_user/user/UserFontSelector.tsx:148
 msgid "Custom fonts are a Supporter Plan feature."
-msgstr ""
+msgstr "Niestandardowe czcionki są funkcją Planu Supportera"
 
 #: src/components/_user/premium/PremiumFeatureList.tsx:103
 msgid "Custom username font"
@@ -3170,7 +3170,7 @@ msgstr "Niestandardowa czcionka nazwy użytkownika"
 
 #: src/components/_common/GameRules.tsx:256
 msgid "d. Any form of discrimination, racism, xenophobia, antisemitism, homophobia, transphobia and hate speech"
-msgstr ""
+msgstr "d. Wszelkie formy dyskryminacji, rasizmu, ksenofobii, antysemityzmu, homofobii, transfobii oraz mowy nienawiści"
 
 #: src/components/_user/mission/MissionsList.tsx:253
 msgid "Daily"
@@ -3187,11 +3187,11 @@ msgstr "Reset Misji Dziennych"
 
 #: src/components/_political/government/Government.tsx:199
 msgid "Daily wage paid from the country treasury."
-msgstr ""
+msgstr "Dzienna pensja wypłacana ze skarbca państwowego"
 
 #: src/components/_military/mercenaryContract/MercenaryContractItemContent.tsx:156
 msgid "Damage by user"
-msgstr ""
+msgstr "Obrażenia na użytkownika"
 
 #: src/components/_military/damageRanking/DamageRankingSides.tsx:114
 msgid "Damage ranking"
@@ -3205,7 +3205,7 @@ msgstr "Obrażenia"
 
 #: src/components/_military/mu/MuMemberList.tsx:345
 msgid "Damages for Mu"
-msgstr ""
+msgstr "Obrażenia na JW"
 
 #: src/components/_economy/inventory/case/cases.frontConfig.tsx:17
 msgid "Damn looks good"
@@ -3238,19 +3238,19 @@ msgstr "Ciemna mapa"
 
 #: src/components/_user/mission/mission.frontConfig.tsx:149
 msgid "Deal <0/> for allies or your country"
-msgstr ""
+msgstr "Zadaj <0/> dla sojuszników albo twojego kraju"
 
 #: src/components/_user/mission/mission.frontConfig.tsx:129
 msgid "Deal <0/> in battles"
-msgstr ""
+msgstr "Zadaj <0/> w bitwach"
 
 #: src/components/_user/mission/mission.frontConfig.tsx:139
 msgid "Deal <0/> on country/mu orders"
-msgstr ""
+msgstr "Zadaj <0/> na rozkaz kraju/jw"
 
 #: src/components/_user/user/MilitaryRank.tsx:85
 msgid "Deal <0>damages</0> in battles to climb the ranks!"
-msgstr ""
+msgstr "Zadaj <0>damages</0> w bitwach aby wspinać się w rankingach!"
 
 #: src/components/_user/user/MilitaryRanksInfoModal.tsx:94
 msgid "Deal damage in battles to increase your military rank and unlock attack bonuses."
@@ -4005,11 +4005,11 @@ msgstr "Grupa rodzinna"
 
 #: src/components/_political/party/party.frontConfig.tsx:334
 msgid "Fanatic Agrarian"
-msgstr ""
+msgstr "Fanatyczny Agrarysta"
 
 #: src/components/_political/law/LawEthicEffects.tsx:58
 msgid "Fanatic Agrarian countries cannot pick a specialization — this law cannot be enacted."
-msgstr ""
+msgstr "Państwa fanatyczno-agrarne nie mogą wybierać specjalizacji, więc to prawo nie może wejść w życie"
 
 #: src/components/_political/party/party.frontConfig.tsx:211
 msgid "Fanatic Diplomatic"
@@ -4018,49 +4018,49 @@ msgstr "Fanatycznie dyplomatyczny"
 #. placeholder {0}: ts.paper
 #: src/components/_political/law/LawEthicEffects.tsx:160
 msgid "Fanatic Diplomatic: defensive pact maintenance costs {less}% less <0>{0}</0>."
-msgstr ""
+msgstr "Fanatycznie Dyplomatyczny: koszt utrzymania paktu obronnego zmniejszony o {less}% <0>{0}</0>"
 
 #. placeholder {0}: ts.paper
 #: src/components/_political/law/LawEthicEffects.tsx:143
 msgid "Fanatic Diplomatic: sworn enemy maintenance costs {more}% more <0>{0}</0>."
-msgstr ""
+msgstr "Fanatycznie Dyplomatyczny: utrzymanie zaprzysiężonego wroga kosztuje {more}% więcej <0>{0}</0>."
 
 #: src/components/_political/party/party.frontConfig.tsx:105
 msgid "Fanatic Expansionist"
-msgstr ""
+msgstr "Fanatyczny Ekspansjonista"
 
 #: src/components/_political/party/party.frontConfig.tsx:304
 msgid "Fanatic Imperialist"
-msgstr "Fanatyczny imperialista"
+msgstr "Fanatyczny Imperialista"
 
 #: src/components/_political/party/party.frontConfig.tsx:391
 msgid "Fanatic Industrialist"
-msgstr ""
+msgstr "Fanatyczny Przemysłowiec"
 
 #: src/components/_political/party/party.frontConfig.tsx:137
 msgid "Fanatic Isolationist"
-msgstr "Fanatyczny izolacjonista"
+msgstr "Fanatyczny Izolacjonista"
 
 #. placeholder {0}: ts.paper
 #: src/components/_political/law/LawEthicEffects.tsx:188
 msgid "Fanatic Isolationist: all treaty maintenance costs {more}% more <0>{0}</0>."
-msgstr ""
+msgstr "Fanatyczny Izolacjonist: wszystkie koszty utrzymania traktatów są wyższe o {more}% <0>{0}</0>"
 
 #: src/components/_political/law/LawEthicEffects.tsx:114
 msgid "Fanatic Isolationist: this sworn enemy starts at {start}% bonus and grows +{perDay}% per day."
-msgstr ""
+msgstr "Fanatyczny Izolacjonist: ten zaprzysiężony wróg zaczyna z premią {start}%, która rośnie o +{perDay}% dziennie.  "
 
 #: src/components/_political/party/party.frontConfig.tsx:56
 msgid "Fanatic Pacifist"
-msgstr "Fanatyczny pacyfista"
+msgstr "Fanatyczny Pacyfista"
 
 #: src/components/_political/law/LawEthicEffects.tsx:94
 msgid "Fanatic Pacifist countries cannot have sworn enemies — this law cannot be enacted."
-msgstr ""
+msgstr "Fanatyczny Pacyfista: kraje z tą cechą nie mogą posiadać zaprzysiężonych wrogów — uchwalenie tego prawa jest niemożliwe. "
 
 #: src/components/_political/party/party.frontConfig.tsx:251
 msgid "Fanatic Republican"
-msgstr "Fanatyczny republikanin"
+msgstr "Fanatyczny Republikanin"
 
 #: src/components/_other/shop/skinPack.frontConfig.tsx:21
 msgid "Farmer"
@@ -4111,7 +4111,7 @@ msgstr "Bonus lojalnościowy"
 
 #: src/components/_economy/workOffer/EstimatedCompanyBenefit.tsx:164
 msgid "Fidelity bonus:"
-msgstr ""
+msgstr "Bonus lojalnościowy:"
 
 #: src/components/_military/mercenaryContract/MercenaryAuctionItem.tsx:159
 msgid "Fight for <0/> in <1/>"
@@ -4235,7 +4235,7 @@ msgstr "Styl czcionki"
 
 #: src/components/_user/user/UserFontSelector.tsx:72
 msgid "Font updated"
-msgstr ""
+msgstr "Czcionka zaktualizowana"
 
 #. placeholder {0}: ts[country.specializedItem]
 #: src/pages/country/[countryId]/index.tsx:369
@@ -4248,7 +4248,7 @@ msgstr ""
 
 #: src/components/_user/badgeCollection/badgeCollection.frontConfig.tsx:45
 msgid "Founding Father"
-msgstr ""
+msgstr "Ojciec Założyciel"
 
 #: src/pages/shop/index.tsx:131
 msgid "Free daily reward"
@@ -4256,7 +4256,7 @@ msgstr "Darmowa dzienna nagroda"
 
 #: src/components/_other/shop/skinPack.frontConfig.tsx:49
 msgid "Full throttle, no brakes"
-msgstr ""
+msgstr "Gaz do dechy, bez hamulców"
 
 #: src/components/_economy/inventory/case/cases.frontConfig.tsx:27
 msgid "Fun fact: The house always wins"
@@ -4288,7 +4288,7 @@ msgstr "Zdobywaj <0>Xp</0> kończąc swoje misje!"
 
 #: src/components/_user/badgeCollection/badgeCollection.frontConfig.tsx:109
 msgid "Game supporter"
-msgstr ""
+msgstr "Wspierający grę"
 
 #: src/pages/shop/index.tsx:141
 msgid "Gems"
@@ -4300,7 +4300,7 @@ msgstr "Klejnoty służą do kupowania przedmiotów w sklepie i obdarowywania in
 
 #: src/components/_user/user/UserRankingsPanel.tsx:110
 msgid "Gems purchased"
-msgstr ""
+msgstr "Klejnoty kupione"
 
 #: src/components/_user/user/militaryRankings.frontConfig.tsx:148
 msgid "General"
@@ -4313,15 +4313,15 @@ msgstr "Generuj misje"
 #. placeholder {0}: levelConfig.stats.dailyProd
 #: src/components/_other/upgrade/upgrade.frontConfig.tsx:77
 msgid "Generates <0>{0}</0>/day"
-msgstr ""
+msgstr "Generuje <0>{0}</0>/dzień"
 
 #: src/components/_user/premium/PremiumFeatureList.tsx:51
 msgid "Get an exclusive <0>subscriber skin</0>!"
-msgstr ""
+msgstr "Zdobądź ekskluzywną <0>subscriber skin</0>!"
 
 #: src/components/_other/shop/SkinCollectionModal.tsx:94
 msgid "Get multiple skins at once with a 30% discount!"
-msgstr ""
+msgstr "Zdobądź wiele skórek jednocześnie z obniżką 30%"
 
 #: src/components/_economy/inventory/DismantleModal.tsx:221
 msgid "Get supporter plan"
@@ -4333,7 +4333,7 @@ msgstr "Prezent od Vatou, nikomu nie mów"
 
 #: src/components/_other/shop/SkinPackModal.tsx:97
 msgid "Gift sent! Skin pack unlocked for recipient!"
-msgstr ""
+msgstr "Prezent wysłany! Zestaw skórek odblokowany dla odbiorcy!"
 
 #: src/pages/shop/index.tsx:57
 msgid "Gift sent! Thanks for supporting the game <3"
@@ -4345,7 +4345,7 @@ msgstr "Podaruj plan wspierającego"
 
 #: src/components/_other/shop/SkinPackModal.tsx:224
 msgid "Gift this pack to someone"
-msgstr ""
+msgstr "Podaruj komuś ten zestaw"
 
 #: src/pages/shop/index.tsx:103
 msgid "gifted"
@@ -4353,7 +4353,7 @@ msgstr "obdarował"
 
 #: src/components/_military/mu/MuMemberList.tsx:446
 msgid "Give Ownership"
-msgstr ""
+msgstr "Przekaż Własność"
 
 #: src/components/_user/apiToken/ApiTokenList.tsx:251
 msgid "Give your token a descriptive name so you can identify it later."
@@ -4361,7 +4361,7 @@ msgstr "Nadaj tokenowi opisową nazwę, aby móc go później zidentyfikować."
 
 #: src/components/_user/badgeCollection/badgeCollection.frontConfig.tsx:199
 msgid "Giveaway Winner"
-msgstr ""
+msgstr "Zwycięzca Konkursu"
 
 #: src/components/_user/notification/notification.frontConfig.tsx:2162
 msgid "Giveaway Won!"
@@ -4383,7 +4383,7 @@ msgstr "Rękawice"
 
 #: src/components/_user/user/UserEffectSelector.tsx:57
 msgid "Glow"
-msgstr ""
+msgstr "Poświata"
 
 #: src/components/_economy/inventory/case/cases.frontConfig.tsx:95
 msgid "Go play lottery right now"
@@ -4408,11 +4408,11 @@ msgstr "Rząd"
 
 #: src/components/_social/announcement/AnnouncementModal.tsx:46
 msgid "Government announcement"
-msgstr ""
+msgstr "Oświadczenie rządu"
 
 #: src/components/_user/badgeCollection/badgeCollection.frontConfig.tsx:240
 msgid "Government Member"
-msgstr ""
+msgstr "Członek Rządu"
 
 #: src/components/_military/battle/BattleSystem.tsx:818
 msgid "Government penalty"
@@ -4508,7 +4508,7 @@ msgstr ""
 
 #: src/components/_user/user/UserRankingsPanel.tsx:43
 msgid "Ground"
-msgstr "Ląd"
+msgstr "Teren"
 
 #: src/components/_military/battle/BattleSystem.tsx:681
 msgid "ground per tick"
@@ -5357,7 +5357,7 @@ msgstr "mapa"
 #: src/components/_layout/LayoutLeftIcons.tsx:157
 #: src/components/_layout/LayoutOptions.tsx:106
 msgid "Map"
-msgstr ""
+msgstr "Mapa"
 
 #: src/components/_political/law/LawFormModal.tsx:213
 #: src/components/_political/law/LawFormModal.tsx:291
@@ -5366,7 +5366,7 @@ msgstr "Akcent mapy"
 
 #: src/components/_layout/LayoutOptions.tsx:148
 msgid "Map icons"
-msgstr ""
+msgstr "Ikony na mapie"
 
 #: src/components/_economy/market/MarketHeader.tsx:38
 #: src/components/_layout/LayoutMenu.tsx:163
@@ -5391,7 +5391,7 @@ msgstr ""
 
 #: src/components/_military/mu/MuLevel.tsx:81
 msgid "Max level reached!"
-msgstr ""
+msgstr "Maksymalny poziom osiągnięty!"
 
 #: src/components/_military/tournament/TournamentHeader.tsx:112
 #: src/components/_military/tournament/TournamentRegistrationPanel.tsx:85
@@ -5416,7 +5416,7 @@ msgstr ""
 
 #: src/components/_user/user/MilitaryRank.tsx:93
 msgid "Maximum rank achieved!"
-msgstr ""
+msgstr "Maksymalna ranga osiągnięta!"
 
 #: src/components/_economy/inventory/case/cases.frontConfig.tsx:32
 msgid "Maybe epic music would help?"
@@ -5507,11 +5507,11 @@ msgstr ""
 #: src/pages/party/[partyId]/index.tsx:76
 #: src/pages/party/[partyId]/members.tsx:21
 msgid "Members"
-msgstr ""
+msgstr "Członkowie"
 
 #: src/components/_political/alliance/AllianceMemberRow.tsx:46
 msgid "Membership suspended"
-msgstr ""
+msgstr "Członkostwo zawieszone"
 
 #: src/components/_user/notification/notification.frontConfig.tsx:2157
 msgid "Mentioned in message"
@@ -5546,7 +5546,7 @@ msgstr ""
 
 #: src/components/_other/shop/SkinPackModal.tsx:236
 msgid "Message (Optional)"
-msgstr ""
+msgstr "Wiadomość (Opcjonalnie)"
 
 #: src/components/_user/notification/notification.frontConfig.tsx:2155
 msgid "Message liked"
@@ -5603,17 +5603,17 @@ msgstr ""
 #: src/components/_user/mission/MissionsHeader.tsx:82
 #: src/components/_user/user/UserRankingsPanel.tsx:86
 msgid "Milestone tiers"
-msgstr ""
+msgstr "Progi Kamieni Milowych"
 
 #: src/components/_user/mission/MissionsHeader.tsx:87
 msgid "Milestone tiers you claimed, across every ladder"
-msgstr ""
+msgstr "Odebrane progi kamieni milowych we wszystkich rankingach"
 
 #: src/components/_user/mission/MissionsHeader.tsx:63
 #: src/components/_user/user/UserHeader.tsx:231
 #: src/pages/user/[userId]/milestones.tsx:20
 msgid "Milestones"
-msgstr ""
+msgstr "Kamienie milowe"
 
 #: src/components/_user/notification/notificationPrefs.categories.ts:159
 msgid "Military & Battles"
@@ -5644,7 +5644,7 @@ msgstr "Awans wojskowy!"
 
 #: src/components/_user/user/SkillValue.tsx:214
 msgid "Military rank:"
-msgstr ""
+msgstr "Ranga wosjkowa:"
 
 #: src/components/_user/user/MilitaryRanksInfoModal.tsx:88
 msgid "Military Ranks"
@@ -6343,7 +6343,7 @@ msgstr "Nominowany do rządu"
 
 #: src/components/_user/user/UserEffectSelector.tsx:55
 msgid "None"
-msgstr ""
+msgstr "Brak"
 
 #: src/components/_political/law/LawFormModal.tsx:217
 #: src/components/_political/law/LawFormModal.tsx:295
@@ -6782,7 +6782,7 @@ msgstr ""
 
 #: src/components/_political/allianceLaw/allianceLaw.frontConfig.tsx:169
 msgid "Permanently dissolve the alliance."
-msgstr ""
+msgstr "Trwałe rozwiązanie sojuszu."
 
 #: src/utils/translations.tsx:86
 msgid "Petroleum"
@@ -6794,19 +6794,19 @@ msgstr "Podoficer"
 
 #: src/components/_user/modals/PhoneVerificationModal.tsx:60
 msgid "Phone number verified!"
-msgstr ""
+msgstr "Numer telefonu zweryfikowany!"
 
 #: src/components/_user/modals/PhoneVerificationModal.tsx:102
 msgid "Phone Verification"
-msgstr ""
+msgstr "Weryfikacja Telefoniczna"
 
 #: src/components/_user/user/UserDropdown.tsx:184
 msgid "Phone verification requested"
-msgstr ""
+msgstr "Wymagana weryfikacja telefoniczna"
 
 #: src/components/_user/modals/PhoneVerificationModal.tsx:110
 msgid "Phone verification required"
-msgstr ""
+msgstr "Wymagana weryfikacja telefoniczna"
 
 #: src/components/_other/tour/tuto.frontConfig.tsx:135
 msgid "Pick a fight!"
@@ -6822,19 +6822,19 @@ msgstr "Zasadź drzewo w centrum danych"
 
 #: src/pages/index.tsx:148
 msgid "Play now"
-msgstr ""
+msgstr "Graj teraz"
 
 #: src/components/_user/milestone/MilestoneItem.tsx:245
 msgid "Players"
-msgstr ""
+msgstr "Gracze"
 
 #: src/components/_common/GameRules.tsx:75
 msgid "Players are limited to a single account. Creating multiple accounts or using someone else's account for any reason is strictly prohibited."
-msgstr ""
+msgstr "Dozwolone jest posiadanie tylko jednego konta na gracza. Tworzenie kont dodatkowych oraz korzystanie z kont osób trzecich jest bezwzględnie zakazane."
 
 #: src/components/_common/GameRules.tsx:93
 msgid "Players can share an IP address if they have been registered as a \"Family Group\". This status must be requested in advance to an admin on our Discord. Group members are prohibited from:"
-msgstr ""
+msgstr "Gracze mogą dzielić ten sam adres IP, pod warunkiem że zostaną zarejestrowani jako „Grupa rodzinna”. Status ten należy wcześniej zgłosić administratorowi na naszym Discordzie. Członkom grupy zabrania się:"
 
 #: src/components/_user/auth/ConnectFromModal.tsx:107
 #: src/components/_user/auth/ConnectFromModal.tsx:127
@@ -6857,24 +6857,24 @@ msgstr "Prawa polityczne"
 
 #: src/components/_political/partyMotion/PartyMotionTypeSelect.tsx:66
 msgid "Political motions"
-msgstr ""
+msgstr "Uchwała polityczna"
 
 #: src/components/_common/GameRules.tsx:210
 msgid "Political Take Overs (PTOs) are permitted, but misusing it to extract a country's resources for personal/another country's gain, to damage the country or to intentionally distort market conditions is a punishable offense, which will include fines, bans, and removal from government roles. This goes for Military Units as well."
-msgstr ""
+msgstr "Przejęcia polityczne (PTO) są dopuszczalne, lecz ich nadużywanie w celu wyprowadzania zasobów państwowych dla korzyści osobistych lub innych nacji, szkodzenia danej nacji czy też rozmyślnego zaburzania rynku jest surowo zabronione. Przewidziane kary to m.in. grzywny, blokady kont oraz pozbawienie funkcji w rządzie. Przepisy te stosuje się odpowiednio do Jednostek Wojskowych."
 
 #: src/components/_user/notification/notificationPrefs.categories.ts:157
 msgid "Politics & Government"
-msgstr ""
+msgstr "Polityka i Rząd"
 
 #: src/components/_user/badgeCollection/badgeCollection.frontConfig.tsx:205
 msgid "Popular Article"
-msgstr ""
+msgstr "Popularny Artykuł"
 
 #: src/components/_social/announcement/AnnouncementFormModal.tsx:21
 #: src/components/_social/announcement/AnnouncementList.tsx:48
 msgid "Post announcement"
-msgstr ""
+msgstr "Wydaj ogłoszenie"
 
 #: src/components/_user/user/skills.frontConfig.tsx:130
 #: src/components/_user/user/skills.frontConfig.tsx:131
@@ -6891,7 +6891,7 @@ msgstr "Premium"
 
 #: src/components/_user/notification/notificationPrefs.categories.ts:154
 msgid "Premium & Gifts"
-msgstr ""
+msgstr "Premium i Prezenty"
 
 #: src/components/_user/notification/notification.frontConfig.tsx:1971
 msgid "Premium activated"
@@ -6924,7 +6924,7 @@ msgstr "Prezydent"
 
 #: src/components/_political/election/election.frontConfig.tsx:23
 msgid "Presidential election"
-msgstr ""
+msgstr "Wybory prezydenckie"
 
 #: src/components/_user/notification/notification.frontConfig.tsx:136
 msgid "Presidential election candidacy is now open in <0/>"
@@ -6945,23 +6945,23 @@ msgstr "Wybory prezydenckie"
 #: src/components/_user/badgeCollection/badgeCollection.frontConfig.tsx:135
 #: src/pages/user/[userId]/skills.tsx:189
 msgid "Prestige"
-msgstr ""
+msgstr "Prestiż"
 
 #: src/components/_user/user/Level.tsx:177
 msgid "Prestige to drop levels and re-activate your XP bonus."
-msgstr ""
+msgstr "Użyj Prestiżu, aby obniżyć poziom i ponowne aktywować bonus do XP"
 
 #: src/components/_user/user/SkillValue.tsx:72
 msgid "Prestige:"
-msgstr ""
+msgstr "Prestiż:"
 
 #: src/components/_user/notification/notification.frontConfig.tsx:2172
 msgid "Prestige!"
-msgstr ""
+msgstr "Prestiż!"
 
 #: src/components/_economy/itemTrading/ItemTradingOrderFormModal.tsx:443
 msgid "Price auto-matches existing orders"
-msgstr ""
+msgstr "Cena dopasowuje się automatycznie do istniejących zleceń"
 
 #: src/components/_political/election/election.frontConfig.tsx:43
 msgid "Primary election"
@@ -6999,11 +6999,11 @@ msgstr "Produkuj wszystko"
 
 #: src/components/_user/mission/mission.frontConfig.tsx:508
 msgid "Produce items <0/> times"
-msgstr ""
+msgstr "Produkuj przedmiot <0/> razy"
 
 #: src/utils/translations.tsx:91
 msgid "Produced from Wood"
-msgstr ""
+msgstr "Wyprodukowany z Drewna"
 
 #: src/components/_economy/company/CompanyChangeItemFormModal.tsx:69
 msgid "Produced item"
@@ -7028,7 +7028,7 @@ msgstr "Bonus produkcji"
 
 #: src/components/_economy/workOffer/EstimatedCompanyBenefit.tsx:156
 msgid "Production bonus:"
-msgstr ""
+msgstr "Bonus produkcji:"
 
 #: src/components/_user/notification/notification.frontConfig.tsx:578
 msgid "Production in<0/> is full, you should start production!"
@@ -7054,12 +7054,12 @@ msgstr "Profil"
 #: src/components/_layout/MoreButtonNav.tsx:100
 #: src/components/_user/mission/MissionsHeader.tsx:49
 msgid "Progression"
-msgstr ""
+msgstr "Postęp"
 
 #: src/components/_military/mu/MuMemberList.tsx:146
 #: src/components/_military/mu/MuMemberList.tsx:434
 msgid "Promote to Commander"
-msgstr ""
+msgstr "Awansuj na Dowódcę"
 
 #: src/components/_user/notification/notification.frontConfig.tsx:2118
 msgid "Promoted to Commander"
@@ -7067,30 +7067,30 @@ msgstr "Awansowany na Dowódcę"
 
 #: src/components/_political/law/law.frontConfig.tsx:259
 msgid "Propose a defensive pact with <0/>"
-msgstr ""
+msgstr "Zaproponuj pakt obronny z <0/>"
 
 #: src/components/_political/partyMotion/PartyMotionFormModal.tsx:123
 #: src/components/_political/partyMotion/PartyMotionList.tsx:48
 msgid "Propose a motion"
-msgstr ""
+msgstr "Zgłoś uchwałę"
 
 #: src/components/_political/law/law.frontConfig.tsx:268
 msgid "Propose a mutual defensive pact with <0/>. Once accepted, defenders of either country get a bonus that starts at 1% and grows +1% per day up to 10%."
-msgstr ""
+msgstr "Zaproponuj wzajemny pakt obronny państwu <0/>. Po przyjęciu propozycji obrońcy obu stron zyskują bonus (+1% dziennie, od 1% do maksymalnie 10%)."
 
 #: src/components/_political/law/law.frontConfig.tsx:254
 msgid "Propose a mutual defensive pact with another country to get a growing defensive bonus"
-msgstr ""
+msgstr "Podpisz pakt o wzajemnej obronie z innym krajem, aby zyskać stopniowo rosnący bonus do obrony"
 
 #: src/components/_political/allianceLaw/AllianceLawFormModal.tsx:123
 #: src/components/_political/allianceLaw/AllianceLawList.tsx:36
 msgid "Propose alliance law"
-msgstr ""
+msgstr "Zaproponuj prawo sojuszu"
 
 #: src/components/_political/law/law.frontConfig.tsx:252
 #: src/components/_political/law/lawNames.tsx:40
 msgid "Propose defensive pact"
-msgstr ""
+msgstr "Zaproponuj pakt obronny"
 
 #: src/components/_political/allianceLaw/AllianceLawFormModal.tsx:200
 #: src/components/_political/law/LawFormModal.tsx:348
@@ -7099,7 +7099,7 @@ msgstr "Zaproponuj prawo"
 
 #: src/components/_political/partyMotion/PartyMotionFormModal.tsx:189
 msgid "Propose motion"
-msgstr ""
+msgstr "Zgłoś uchwałę"
 
 #: src/components/_political/law/law.frontConfig.tsx:137
 #: src/components/_political/law/lawNames.tsx:15
@@ -7164,19 +7164,19 @@ msgstr "Szybko rozbieraj przedmioty"
 
 #: src/components/_user/user/UserEffectSelector.tsx:60
 msgid "Rainbow"
-msgstr ""
+msgstr "Tęcza"
 
 #: src/components/_user/user/UserTooltip.tsx:158
 msgid "Rank"
-msgstr ""
+msgstr "Ranga"
 
 #: src/components/_military/battle/BattleHeader.tsx:295
 msgid "Ranking"
-msgstr ""
+msgstr "Ranking"
 
 #: src/components/_user/notification/notification.frontConfig.tsx:2062
 msgid "Ranking reward"
-msgstr ""
+msgstr "Nagroda rankingowa"
 
 #: src/components/_layout/MoreButtonNav.tsx:117
 #: src/pages/alliance/[allianceId]/index.tsx:48
@@ -7187,7 +7187,7 @@ msgstr "Rankingi"
 
 #: src/components/_layout/LayoutRightIcons.tsx:228
 msgid "Ranks"
-msgstr "Rangi"
+msgstr "Ranking"
 
 #: src/components/_military/mercenaryContract/MercenaryAuctionItem.tsx:175
 msgid "Rate"
@@ -7432,7 +7432,7 @@ msgstr "Transfer regionu"
 #. placeholder {0}: formatMultiplierDelta( ethicsBonuses.imperialism[2].upgradeMaintenanceMultiplier, )
 #: src/components/_political/party/party.frontConfig.tsx:316
 msgid "Region upgrade maintenance costs are increased by <0>{0}</0>."
-msgstr ""
+msgstr "Utrzymanie ulepszenia regionu kosztuje o <0>{0}</0> więcej"
 
 #: src/components/_layout/LoadingScreenContent.tsx:23
 msgid "regions"
@@ -7448,29 +7448,29 @@ msgstr ""
 
 #: src/components/_military/tournament/TournamentRegisterButton.tsx:124
 msgid "Register my country"
-msgstr ""
+msgstr "Zgłoś swój kraj"
 
 #: src/components/_military/tournament/TournamentRegisterButton.tsx:122
 msgid "Register my MU"
-msgstr ""
+msgstr "Zgłoś swoją JW"
 
 #: src/components/_military/tournament/TournamentHeader.tsx:65
 #: src/components/_military/tournament/TournamentRegistrationPanel.tsx:122
 msgid "Registered countries"
-msgstr ""
+msgstr "Zapisane kraje"
 
 #: src/components/_military/tournament/TournamentHeader.tsx:65
 #: src/components/_military/tournament/TournamentRegistrationPanel.tsx:120
 msgid "Registered MUs"
-msgstr ""
+msgstr "Zapisane JW"
 
 #: src/components/_military/tournament/TournamentRegistrationPanel.tsx:57
 msgid "Registration closes in"
-msgstr ""
+msgstr "Zapisy zamknięte za"
 
 #: src/components/_military/tournament/TournamentItem.tsx:58
 msgid "Registration open"
-msgstr ""
+msgstr "Zapisy otwarte"
 
 #: src/utils/translations.tsx:205
 msgid "Reinforced Boots"
@@ -7517,19 +7517,19 @@ msgstr "Usuń <0/> z kongresu z powodu nieaktywności"
 
 #: src/components/_political/allianceLaw/allianceLaw.frontConfig.tsx:82
 msgid "Remove <0/> from the alliance immediately on acceptance."
-msgstr ""
+msgstr "Wyrzuć <0/> z sojuszu natychmiast po zaakceptowaniu"
 
 #: src/components/_political/partyMotion/partyMotion.frontConfig.tsx:38
 msgid "Remove <0/> from the party council"
-msgstr ""
+msgstr "Wyrzuć <0/> z rady partii"
 
 #: src/components/_political/allianceLaw/allianceLaw.frontConfig.tsx:66
 msgid "Remove a member country from the alliance."
-msgstr ""
+msgstr "Wyrzuć kraj członkowski z sojuszu"
 
 #: src/components/_political/partyMotion/partyMotion.frontConfig.tsx:32
 msgid "Remove a member from the party council"
-msgstr ""
+msgstr "Wyrzuć członka z rady partii"
 
 #: src/pages/market/index.tsx:200
 #: src/pages/market/index.tsx:263
@@ -7543,7 +7543,7 @@ msgstr "Usuń nieaktywnego członka kongresu"
 #: src/components/_social/announcement/Announcement.tsx:125
 #: src/components/_social/announcement/Announcement.tsx:132
 msgid "Remove announcement"
-msgstr ""
+msgstr "Usuń ogłoszenie"
 
 #: src/components/_user/user/UserDropdown.tsx:442
 msgid "Remove Avatar"
@@ -7555,7 +7555,7 @@ msgstr ""
 
 #: src/components/_political/partyMotion/partyMotion.frontConfig.tsx:31
 msgid "Remove council member"
-msgstr ""
+msgstr "Usuń członka rady partii"
 
 #: src/components/_user/user/UserDropdown.tsx:464
 msgid "Remove Description"
@@ -7569,7 +7569,7 @@ msgstr "Usuń wroga"
 #: src/components/_political/partyMotion/partyMotion.frontConfig.tsx:60
 #: src/components/_political/partyMotion/partyMotion.frontConfig.tsx:63
 msgid "Remove the current party leader from their position"
-msgstr ""
+msgstr "Usuń obecnego lidera partii z jego posady"
 
 #: src/components/_user/notification/notification.frontConfig.tsx:2115
 msgid "Removed from Military Unit"
@@ -7582,12 +7582,12 @@ msgstr "Zmień nazwę"
 #: src/components/_political/alliance/alliance.frontConfig.tsx:18
 #: src/components/_political/allianceLaw/allianceLaw.frontConfig.tsx:120
 msgid "Rename alliance"
-msgstr ""
+msgstr "Zmień nazwę sojuszu"
 
 #. placeholder {0}: data.newName
 #: src/components/_political/allianceLaw/allianceLaw.frontConfig.tsx:127
 msgid "Rename alliance to \"{0}\""
-msgstr ""
+msgstr "Zmień nazwę sojuszu na \"{0}\""
 
 #: src/components/_economy/company/CompanyRenameFormModal.tsx:66
 #: src/components/_economy/company/CompanyRenameFormModal.tsx:82
@@ -7597,27 +7597,27 @@ msgstr "Zmień nazwę firmy"
 #. placeholder {0}: data.newName
 #: src/components/_political/allianceLaw/allianceLaw.frontConfig.tsx:133
 msgid "Rename the alliance to \"{0}\" immediately on acceptance."
-msgstr ""
+msgstr "Zmień nazwę sojuszu na \"{0}\" natychmiast po zaakceptowaniu"
 
 #: src/components/_political/government/Government.tsx:244
 msgid "Replace"
-msgstr ""
+msgstr "Zastąp"
 
 #: src/components/_political/government/Government.tsx:282
 msgid "Replace {title}"
-msgstr ""
+msgstr "Zastąp {title}"
 
 #: src/components/_political/partyMotion/partyMotion.frontConfig.tsx:80
 msgid "Replace all party ethics with a new configuration"
-msgstr ""
+msgstr "Zastąp wszystkie etyki partii nowym zestawieniem"
 
 #: src/components/_political/government/NominateForm.tsx:57
 msgid "Replacing a member"
-msgstr ""
+msgstr "Zastąpienie członka"
 
 #: src/components/_military/mercenaryContract/MercenaryContractItem.tsx:66
 msgid "Report"
-msgstr ""
+msgstr "Zgłoś"
 
 #: src/components/_user/user/UserDropdown.tsx:302
 msgid "Report user"
@@ -7625,7 +7625,7 @@ msgstr "Zgłoś użytkownika"
 
 #: src/components/_user/user/UserHeader.tsx:213
 msgid "Reports"
-msgstr ""
+msgstr "Zgłoszenia"
 
 #: src/components/_political/party/party.frontConfig.tsx:270
 #: src/components/_political/party/party.frontConfig.tsx:285
@@ -7634,15 +7634,15 @@ msgstr "Republikanin"
 
 #: src/components/_military/mercenaryContract/MercenaryReputationTooltip.tsx:34
 msgid "Reputation decays 20% toward 0 every week (minimum 1 point)."
-msgstr ""
+msgstr "Reputacja spada o 20% w stronę 0 co tydzień (minimum 1 punkt)"
 
 #: src/components/_military/mercenaryContract/BuyMercenaryReputationButton.tsx:25
 msgid "Reputation purchased!"
-msgstr ""
+msgstr "Reputacja zakupiona!"
 
 #: src/components/_user/user/UserDropdown.tsx:369
 msgid "Request Phone Verification"
-msgstr ""
+msgstr "Wymagana Weryfikacja Telefonem"
 
 #: src/components/_user/apiToken/ApiTokenList.tsx:197
 msgid "Requests:"
@@ -7662,11 +7662,11 @@ msgstr "Zresetuj CAPTCHA"
 
 #: src/components/_user/mission/mission.frontConfig.tsx:489
 msgid "Reset Skills"
-msgstr ""
+msgstr "Zresetuj Umiejętności"
 
 #: src/components/_user/badgeCollection/badgeCollection.frontConfig.tsx:129
 msgid "Reset Survivor"
-msgstr ""
+msgstr "Ocalały po Resecie"
 
 #: src/pages/user/[userId]/settings.tsx:123
 msgid "Reset tutorials"
@@ -7678,7 +7678,7 @@ msgstr "Zresetuj nazwę użytkownika"
 
 #: src/components/_user/mission/mission.frontConfig.tsx:490
 msgid "Reset your skills"
-msgstr ""
+msgstr "Zresetuj swoje umiejętności"
 
 #: src/pages/region/[regionId]/index.tsx:109
 msgid "Reshuffle in"
@@ -7695,15 +7695,15 @@ msgstr "Opór"
 
 #: src/components/_political/contribution/ContributionList.tsx:198
 msgid "Resistance Contributors"
-msgstr ""
+msgstr "Wspierający Ruch Oporu"
 
 #: src/components/_military/battle/BattleName.tsx:155
 msgid "Resistance for {regionName} {score}"
-msgstr ""
+msgstr "Opór dla {regionName} {score}"
 
 #: src/components/_political/region/RegionTooltip.tsx:101
 msgid "Resource"
-msgstr ""
+msgstr "Zasoby"
 
 #: src/components/_political/country/CountryTooltip.tsx:160
 #: src/pages/country/[countryId]/index.tsx:226
@@ -7737,23 +7737,23 @@ msgstr "Bunt rozpoczęty!"
 
 #: src/components/_military/battle/BattleName.tsx:160
 msgid "Revolution {score}"
-msgstr ""
+msgstr "Przewrót {score}"
 
 #: src/components/_political/event/EventList.tsx:140
 msgid "Revolution ended"
-msgstr ""
+msgstr "Przewrót zakończony"
 
 #: src/components/_political/event/EventList.tsx:139
 msgid "Revolution started"
-msgstr ""
+msgstr "Przewrót rozpoczęty"
 
 #: src/components/_user/notification/notification.frontConfig.tsx:2084
 msgid "Revolution started!"
-msgstr ""
+msgstr "Przewrót rozpoczęty!"
 
 #: src/components/_user/badgeCollection/Badge.tsx:59
 msgid "Reward"
-msgstr ""
+msgstr "Nagroda"
 
 #: src/utils/translations.tsx:24
 msgid "Rifle"
@@ -7769,26 +7769,26 @@ msgstr ""
 
 #: src/utils/translations.tsx:269
 msgid "Rolled back by admin"
-msgstr ""
+msgstr "Cofnięty przez admina"
 
 #: src/components/_military/mercenaryContract/MercenaryContractItemContent.tsx:240
 msgid "Rolled back by Admin"
-msgstr ""
+msgstr "Cofnięty przez Admina"
 
 #: src/components/_military/mercenaryContract/CreateAuctionModal.tsx:198
 msgid "Round"
-msgstr ""
+msgstr "Runda"
 
 #. placeholder {0}: auction.roundNumber
 #. placeholder {0}: contract.roundNumber
 #: src/components/_military/mercenaryContract/MercenaryAuctionItem.tsx:221
 #: src/components/_military/mercenaryContract/MercenaryContractItemContent.tsx:132
 msgid "Round {0}"
-msgstr ""
+msgstr "Runda {0}"
 
 #: src/components/_military/damageRanking/BattleLoot.tsx:90
 msgid "Round {roundNumber} loot pool"
-msgstr ""
+msgstr "Pula łupów rundy {roundNumber}"
 
 #. placeholder {0}: i + 1
 #: src/components/_military/damageRanking/DamageRankingSides.tsx:75
@@ -7811,15 +7811,15 @@ msgstr "Runda zakończona"
 #: src/components/_military/battle/BattleSystem.tsx:473
 #: src/components/_military/battle/BattleSystem.tsx:510
 msgid "Round ETA"
-msgstr ""
+msgstr "ETA Rundy"
 
 #: src/components/_user/badgeCollection/badgeCollection.frontConfig.tsx:79
 msgid "Round Hero"
-msgstr ""
+msgstr "Bohater Rundy"
 
 #: src/components/_military/damageRanking/BattleLoot.tsx:60
 msgid "Round loot"
-msgstr ""
+msgstr "Łup Rundy"
 
 #: src/components/_military/battle/BattleTimeline.tsx:78
 msgid "Rounds timeline"
@@ -7841,7 +7841,7 @@ msgstr "Zasady"
 
 #: src/pages/country/[countryId]/index.tsx:234
 msgid "Ruling Party"
-msgstr ""
+msgstr "Partia Rządząca"
 
 #: src/components/_other/tour/tuto.frontConfig.tsx:152
 msgid "Running low on health?"
@@ -7884,11 +7884,11 @@ msgstr "Szukaj krajów..."
 
 #: src/components/_other/shop/SkinPackModal.tsx:233
 msgid "Search recipient username..."
-msgstr ""
+msgstr "Szukaj odbiorcy..."
 
 #: src/components/_political/government/NominateForm.tsx:53
 msgid "Search username to nominate..."
-msgstr ""
+msgstr "Szukaj nazwy użytkownika do nominowania..."
 
 #: src/components/_user/premium/PremiumFeatureList.tsx:65
 msgid "See all your workers and companies stats"
@@ -7900,7 +7900,7 @@ msgstr "Zobacz podział wydatków i przychodów"
 
 #: src/components/_military/mu/MuSettings.tsx:77
 msgid "Select a country"
-msgstr ""
+msgstr "Wybierz kraj"
 
 #: src/components/_military/mu/MuFormModal.tsx:112
 msgid "Select a location"
@@ -7916,7 +7916,7 @@ msgstr "Zaznacz wszystko"
 
 #: src/components/_political/partyMotion/PartyMotionFormModal.tsx:141
 msgid "Select an occupied region"
-msgstr ""
+msgstr "Wybierz zajęty region"
 
 #: src/components/_user/user/UserDropdown.tsx:275
 msgid "Select banner"
@@ -7925,7 +7925,7 @@ msgstr "Wybierz baner"
 #: src/components/_political/allianceLaw/AllianceLawTypeSelect.tsx:50
 #: src/components/_political/law/LawTypeSelect.tsx:69
 msgid "Select law type"
-msgstr ""
+msgstr "Wybierz typ prawa"
 
 #: src/components/_political/law/LawFormModal.tsx:214
 #: src/components/_political/law/LawFormModal.tsx:292
@@ -7934,11 +7934,11 @@ msgstr "Wybierz akcent"
 
 #: src/components/_political/partyMotion/PartyMotionTypeSelect.tsx:59
 msgid "Select motion type"
-msgstr ""
+msgstr "Wybierz typ uchwały"
 
 #: src/components/_user/user/UserDropdown.tsx:282
 msgid "Select skin"
-msgstr ""
+msgstr "Wybierz skórkę"
 
 #: src/components/_economy/work/WorkChart.tsx:224
 #: src/components/_user/mission/mission.frontConfig.tsx:83
@@ -7947,7 +7947,7 @@ msgstr "Praca własna"
 
 #: src/components/_user/mission/mission.frontConfig.tsx:85
 msgid "Self work <0/> times in your companies"
-msgstr ""
+msgstr "Wykonaj pracę własną <0/> razy we własnych firmach"
 
 #: src/components/_economy/company/CompanyDropdown.tsx:332
 msgid "Sell company?"
@@ -7955,7 +7955,7 @@ msgstr "Sprzedać firmę?"
 
 #: src/components/_user/mission/mission.frontConfig.tsx:219
 msgid "Sell for <0/> money on market"
-msgstr ""
+msgstr "Sprzedaj za <0/> na rynku"
 
 #: src/components/_economy/inventory/case/cases.frontConfig.tsx:54
 msgid "Sell it, you need to buy more cases to gamble!"
@@ -7972,7 +7972,7 @@ msgstr "Zamówienia sprzedaży"
 
 #: src/components/_economy/workOffer/EstimatedCompanyBenefit.tsx:111
 msgid "Sell price:"
-msgstr ""
+msgstr "Cena sprzedaży:"
 
 #: src/components/_economy/itemTrading/ItemTradingOrderItem.tsx:158
 msgid "sells"
@@ -7980,11 +7980,11 @@ msgstr "sprzedaje"
 
 #: src/components/_user/mission/mission.frontConfig.tsx:389
 msgid "Send <0/> messages"
-msgstr ""
+msgstr "Wyślij <0/> wiadomości"
 
 #: src/components/_political/law/law.frontConfig.tsx:418
 msgid "Send <0/> to <1/>"
-msgstr ""
+msgstr "Wyślij <0/> do <1/>"
 
 #: src/components/_user/user/UserDropdown.tsx:215
 msgid "Send a message"
@@ -7996,11 +7996,11 @@ msgstr "Wyślij wiadomość, aby ukończyć samouczek. Witamy w społeczności!"
 
 #: src/components/_user/modals/PhoneVerificationModal.tsx:140
 msgid "Send Code"
-msgstr ""
+msgstr "Wyślij Kod"
 
 #: src/components/_other/shop/SkinPackModal.tsx:285
 msgid "Send Gift"
-msgstr ""
+msgstr "Wyślij Prezent"
 
 #: src/components/_user/mission/mission.frontConfig.tsx:387
 msgid "Send Message"
@@ -8044,7 +8044,7 @@ msgstr "Ustaw kolor kraju"
 #. placeholder {0}: law.data.scheme
 #: src/components/_political/law/law.frontConfig.tsx:536
 msgid "Set country color to <0>{0}</0> "
-msgstr ""
+msgstr "Ustaw kolor kraju na <0>{0}</0> "
 
 #: src/components/_political/partyMotion/partyMotion.frontConfig.tsx:88
 msgid "Set new party ethics configuration:"
@@ -8056,7 +8056,7 @@ msgstr ""
 
 #: src/components/_political/partyMotion/partyMotion.frontConfig.tsx:79
 msgid "Set party ethics"
-msgstr ""
+msgstr "Określ etykę partii"
 
 #: src/components/_user/mission/mission.frontConfig.tsx:442
 msgid "Set Profile Picture"
@@ -8105,7 +8105,7 @@ msgstr ""
 
 #: src/components/_user/user/UserEffectSelector.tsx:56
 msgid "Shine"
-msgstr ""
+msgstr "Błyszczący"
 
 #: src/components/_layout/LayoutRightIcons.tsx:181
 #: src/components/_layout/MoreButtonNav.tsx:70
@@ -8121,7 +8121,7 @@ msgstr ""
 #. placeholder {0}: auction.bids.length
 #: src/components/_military/mercenaryContract/MercenaryAuctionItem.tsx:277
 msgid "Show all {0} bids"
-msgstr ""
+msgstr "Pokaż wszsytkie {0} ofert"
 
 #: src/components/_military/damageRanking/DamageRankingList.tsx:189
 #: src/components/_social/ArticleTags.tsx:264
@@ -8135,7 +8135,7 @@ msgstr "Pokaż więcej"
 #. placeholder {0}: items.length - modalLimit
 #: src/components/_economy/inventory/MultiItems.tsx:88
 msgid "Show more ({0} remaining)"
-msgstr ""
+msgstr "Pokaż więcej ({0} pozostałych)"
 
 #: src/components/_social/ArticleList.tsx:168
 msgid "Show only articles with positive score (score >= -5)"
@@ -8160,7 +8160,7 @@ msgstr ""
 #: src/components/_military/tournament/TournamentHeader.tsx:103
 #: src/components/_military/tournament/TournamentRegistrationPanel.tsx:77
 msgid "Skill bonus"
-msgstr ""
+msgstr "Bonus do umiejętności"
 
 #: src/components/_economy/inventory/case/cases.frontConfig.tsx:19
 msgid "Skill issue?"
@@ -8190,19 +8190,19 @@ msgstr ""
 
 #: src/components/_user/notification/notification.frontConfig.tsx:1990
 msgid "Skin gift sent"
-msgstr ""
+msgstr "Podarunkowa skórka wysłana"
 
 #: src/components/_user/notification/notification.frontConfig.tsx:1995
 msgid "Skin pack gift sent"
-msgstr ""
+msgstr "Podarunkowy zestaw skórek wysłany"
 
 #: src/components/_other/shop/SkinPackModal.tsx:84
 msgid "Skin pack unlocked! All skins equipped!"
-msgstr ""
+msgstr "Zestaw skórek oblokowany! Użyto wszystkie skórki!"
 
 #: src/components/_other/shop/SkinCollectionModal.tsx:91
 msgid "Skin Packs"
-msgstr ""
+msgstr "Zestawy Skórek"
 
 #: src/components/_user/notification/notification.frontConfig.tsx:2173
 msgid "Skin Reward"
@@ -8212,15 +8212,15 @@ msgstr ""
 #: src/pages/shop/index.tsx:145
 #: src/pages/user/[userId]/index.tsx:101
 msgid "Skins"
-msgstr ""
+msgstr "Skórki"
 
 #: src/components/_other/shop/SkinPackModal.tsx:249
 msgid "Skins in this pack"
-msgstr ""
+msgstr "Skórki w zestawie"
 
 #: src/components/_user/user/UserRankingsPanel.tsx:98
 msgid "Skins owned"
-msgstr ""
+msgstr "Skórki posiadane"
 
 #: src/components/_other/tour/TutorialStep.tsx:185
 msgid "Skip Tutorial"
@@ -8232,7 +8232,7 @@ msgstr ""
 
 #: src/components/_layout/LayoutOptions.tsx:207
 msgid "Small GIFs"
-msgstr ""
+msgstr "Małe GIFy"
 
 #: src/utils/translations.tsx:25
 msgid "Sniper"
@@ -8284,7 +8284,7 @@ msgstr ""
 
 #: src/components/_user/user/SkillUpgrade.tsx:268
 msgid "Stage a prestige point on this skill (applied on save, reset on skill reset)"
-msgstr ""
+msgstr "Przydziel punkt prestiżu do tej umiejętności (stosowane przy zapisie, zerowane przy restecie umiejętności)"
 
 #: src/components/_political/law/law.frontConfig.tsx:169
 #: src/components/_political/law/law.frontConfig.tsx:171
@@ -8294,12 +8294,12 @@ msgstr "Rozpocznij wybory parlamentarne teraz"
 #: src/components/_political/partyMotion/partyMotion.frontConfig.tsx:51
 #: src/components/_political/partyMotion/partyMotion.frontConfig.tsx:53
 msgid "Start a party council election immediately"
-msgstr ""
+msgstr "Rozpocznij natychmiast wybory do rady partyjnej"
 
 #: src/components/_political/partyMotion/partyMotion.frontConfig.tsx:71
 #: src/components/_political/partyMotion/partyMotion.frontConfig.tsx:73
 msgid "Start a party leader election immediately"
-msgstr ""
+msgstr "Roczponij natychmiast wybory lidra partii"
 
 #: src/components/_political/partyMotion/partyMotion.frontConfig.tsx:105
 #: src/components/_political/partyMotion/partyMotion.frontConfig.tsx:107
@@ -8314,7 +8314,7 @@ msgstr "Rozpocznij wybory prezydenckie teraz"
 #: src/components/_political/partyMotion/partyMotion.frontConfig.tsx:114
 #: src/components/_political/partyMotion/partyMotion.frontConfig.tsx:116
 msgid "Start a revolution to overthrow the government"
-msgstr ""
+msgstr "Rozpocznij rewolucje, aby obalić rząd"
 
 #: src/components/_political/law/law.frontConfig.tsx:168
 #: src/components/_political/law/lawNames.tsx:19
@@ -8328,7 +8328,7 @@ msgstr "Rozpocznij wybory prezydenckie"
 
 #: src/components/_political/partyMotion/partyMotion.frontConfig.tsx:113
 msgid "Start revolution"
-msgstr ""
+msgstr "Rozpocznij rewolucje"
 
 #: src/components/_military/tournament/TournamentHeader.tsx:79
 #: src/components/_military/war/WarHeader.tsx:65
@@ -8358,7 +8358,7 @@ msgstr ""
 #. placeholder {0}: gameConfig?.battle.enemyDamagesBonusPercent
 #: src/components/_political/law/law.frontConfig.tsx:237
 msgid "starts at 1% and grows +1% per day up to <0>{0}</0>"
-msgstr ""
+msgstr "zaczyna się od 1% i rośnie +1% każdego dnia aż do <0>{0}</0>"
 
 #: src/components/_economy/inventory/case/cases.frontConfig.tsx:11
 msgid "Statistically impossible to stay this unlucky"
@@ -8413,11 +8413,11 @@ msgstr "Zasoby strategiczne"
 
 #: src/components/_political/event/event.frontConfig.tsx:436
 msgid "Strategic resources have been reshuffled across the whole map."
-msgstr ""
+msgstr "Zasoby strategiczne zostały przetasowane na całej mapie"
 
 #: src/components/_user/user/UserEffectSelector.tsx:58
 msgid "Stripes"
-msgstr ""
+msgstr "Pasy"
 
 #: src/components/_social/ArticleList.tsx:217
 msgid "Subscribed"
@@ -8425,7 +8425,7 @@ msgstr "Subskrybowane"
 
 #: src/components/_user/badgeCollection/badgeCollection.frontConfig.tsx:142
 msgid "Subscribed and supported the game <3"
-msgstr ""
+msgstr "Zasubskrybowano i wsparto grę <3"
 
 #: src/components/_user/user/UserRankingsPanel.tsx:66
 msgid "Subscribers"
@@ -8433,7 +8433,7 @@ msgstr "Subskrybenci"
 
 #: src/components/_user/auth/ConnectFromModal.tsx:161
 msgid "Successfully logged in!"
-msgstr ""
+msgstr "Pomyślnie zalogowano!"
 
 #: src/components/_user/badgeCollection/badgeCollection.frontConfig.tsx:165
 msgid "Sugar Daddy"
@@ -8467,7 +8467,7 @@ msgstr "Funkcja wspierającego"
 
 #: src/components/_user/badgeCollection/badgeCollection.frontConfig.tsx:157
 msgid "Supporter Gift"
-msgstr ""
+msgstr "Prezent Wspierającego"
 
 #: src/components/_user/user/UserRankingsPanel.tsx:78
 msgid "Supporter gifts"
@@ -8496,12 +8496,12 @@ msgstr "Najwyższy Dowódca"
 #: src/components/_political/country/CountryDiplomacyGrid.tsx:286
 #: src/components/_political/country/CountryTooltip.tsx:118
 msgid "Sworn enemy"
-msgstr "Zaprzysięgły wróg"
+msgstr "Zaprzysiężony wróg"
 
 #. placeholder {0}: formatMultiplierDelta( ethicsBonuses.isolationism[2].enemyMaintenanceMultiplier, )
 #: src/components/_political/party/party.frontConfig.tsx:233
 msgid "Sworn enemy maintenance costs are increased by <0>{0}</0>."
-msgstr ""
+msgstr "Koszt utrzymania statusu śmiertelnego wroga wzrasta o <0>{0}</0>"
 
 #. placeholder {0}: ethicsBonuses.isolationism['-1'].enemyFidelityStart
 #. placeholder {0}: ethicsBonuses.isolationism['-2'].enemyFidelityStart
@@ -8515,7 +8515,7 @@ msgstr ""
 #. placeholder {0}: ts.paper
 #: src/components/_military/battle/SetOrderFormModal.tsx:537
 msgid "Sworn enemy: orders against your sworn enemy cost {orderDiscountPercent}% less <0>{0}</0>"
-msgstr ""
+msgstr "Zaprzysiężony wróg: rozkazy przeciwko t wojemu śmiertelnemu wrogowi kosztują {orderDiscountPercent}% mniej <0>{0}</0>"
 
 #: src/components/_political/event/EventList.tsx:115
 msgid "System revolt"
@@ -8563,12 +8563,12 @@ msgstr "Podatki"
 #. placeholder {0}: tournamentTeam.number
 #: src/components/_military/tournament/TournamentTeamHeader.tsx:56
 msgid "Team {0}"
-msgstr ""
+msgstr "Drużyna {0}"
 
 #: src/components/_military/tournament/TournamentHeader.tsx:72
 #: src/components/_military/tournament/TournamentHeader.tsx:151
 msgid "Teams"
-msgstr ""
+msgstr "Drużyny"
 
 #: src/components/_military/mercenaryContract/MercenaryAuctionList.tsx:140
 #: src/components/_military/mercenaryContract/MercenaryContractList.tsx:91
@@ -8582,7 +8582,7 @@ msgstr "Warunki"
 
 #: src/components/_user/auth/ConnectFromModal.tsx:435
 msgid "Terms of Service"
-msgstr ""
+msgstr "Regulamin"
 
 #: src/components/_layout/LayoutOptions.tsx:312
 msgid "Texture"
@@ -8615,16 +8615,16 @@ msgstr ""
 #. placeholder {0}: data.refund
 #: src/components/_user/notification/notification.frontConfig.tsx:1653
 msgid "The contract for <0/> has expired. <1>{0}</1> returned to <2/>."
-msgstr ""
+msgstr "Kontrakt <0/> wygasł. <1>{0}</1> zwrócone do <2/>."
 
 #. placeholder {0}: data.moneyRolledBack
 #: src/components/_user/notification/notification.frontConfig.tsx:1671
 msgid "The contract has been rolled back. <0>{0}</0> sent back to <1/>."
-msgstr ""
+msgstr "Kontrakt został unieważniony.<0>{0}</0> wysłany z powrotem do <1/> "
 
 #: src/components/_political/law/LawCostExplanation.tsx:32
 msgid "The cost is the law's base cost scaled by your country's average development."
-msgstr ""
+msgstr "Koszt stanowi cenę bazową prawa pomnożoną przez współczynnik średniego rozwoju Twojego państwa."
 
 #: src/components/_user/user/skills.frontConfig.tsx:59
 msgid "The damage factor increase of critical hits over normal hits"
@@ -8654,11 +8654,11 @@ msgstr ""
 
 #: src/components/_political/event/event.frontConfig.tsx:88
 msgid "The revolution in <0/> has been suppressed. The government remains in power."
-msgstr ""
+msgstr "Bunt w <0/> została stłumiona. Rząd pozostaje u władzy."
 
 #: src/components/_political/event/event.frontConfig.tsx:74
 msgid "The revolution in <0/> has succeeded! The government has been overthrown."
-msgstr ""
+msgstr "Bunt w <0/> udał się! Rząd został obalony."
 
 #: src/pages/region/[regionId]/index.tsx:110
 msgid "The strategic resource will be reshuffled in the following amount of time."
@@ -8718,7 +8718,7 @@ msgstr "To jest twoje centrum firm. Tutaj możesz produkować przedmioty i budow
 
 #: src/components/_military/tournament/TournamentTeamTooltip.tsx:88
 msgid "This is your team"
-msgstr ""
+msgstr "To twoja drużyna"
 
 #: src/components/_political/law/LawTypeSelect.tsx:200
 msgid "This law can be abusive and requires 5+ possible voters in the country."
@@ -8727,15 +8727,15 @@ msgstr "To prawo może być nadużywane i wymaga 5+ możliwych głosujących w k
 #: src/components/_political/law/LawTypeSelect.tsx:194
 #: src/components/_political/partyMotion/PartyMotionTypeSelect.tsx:138
 msgid "This law has an additional variable cost"
-msgstr ""
+msgstr "To prawo wiąże się z dodatkowymi zmiennymi kosztami"
 
 #: src/components/_political/law/LawTypeSelect.tsx:209
 msgid "This law requires at least {minActiveCitizen} active citizens (level 10+) in the country."
-msgstr ""
+msgstr "To prawo wymaga przynajmniej {minActiveCitizen} aktywnych obywateli (level 10+) w tym państwie."
 
 #: src/components/_political/government/Government.tsx:266
 msgid "This member won't be able to be nominated again for {cooldownDays} days."
-msgstr ""
+msgstr "Ten członek nie może być ponownie nominowany przez {cooldownDays} dni."
 
 #: src/pages/region/[regionId]/index.tsx:177
 msgid "This region is not linked to it's owner's capital."
@@ -8747,7 +8747,7 @@ msgstr ""
 
 #: src/components/_military/tournament/TournamentHeader.tsx:125
 msgid "This tournament has no equipment rarity cap: any gear can be used."
-msgstr ""
+msgstr "Ten turniej nie ma wymagań odnośnie rzadkości wyposażenia: każde wyposażenie może być użyte."
 
 #: src/components/_user/user/FamilyGroup.tsx:64
 msgid "This user is not part of any family group"
@@ -8759,7 +8759,7 @@ msgstr ""
 
 #: src/components/_user/user/UserDropdown.tsx:370
 msgid "This will require the user to verify their mobile phone number."
-msgstr ""
+msgstr "To będzie wymagało od użytkownika weryfikacji numeru telefonu."
 
 #. placeholder {0}: milestone.tier
 #: src/components/_user/milestone/MilestoneItem.tsx:132
@@ -8836,7 +8836,7 @@ msgstr ""
 
 #: src/components/_user/mission/mission.frontConfig.tsx:312
 msgid "Tip <0/> articles"
-msgstr ""
+msgstr "Daj napiwek <0/> artykułom"
 
 #: src/components/_user/mission/mission.frontConfig.tsx:310
 msgid "Tip Article"
@@ -8879,19 +8879,19 @@ msgstr ""
 
 #: src/components/_user/badgeCollection/badgeCollection.frontConfig.tsx:74
 msgid "Top 1 damage in a battle"
-msgstr ""
+msgstr "Top 1 obrażeń w bitwie"
 
 #: src/components/_user/badgeCollection/badgeCollection.frontConfig.tsx:80
 msgid "Top 1 damage in a round"
-msgstr ""
+msgstr "Top 1 obrażeń w rundzie"
 
 #: src/components/_user/badgeCollection/badgeCollection.frontConfig.tsx:92
 msgid "Top 1 ground points in a battle"
-msgstr ""
+msgstr "Top 1 zdobytych ziem w  bitwie"
 
 #: src/components/_user/badgeCollection/badgeCollection.frontConfig.tsx:98
 msgid "Top 1 ground points in a round"
-msgstr ""
+msgstr "Top 1 zdobytych ziem w rundzie"
 
 #: src/components/_economy/workOffer/WageInfoAlert.tsx:84
 msgid "Top 3 offers"
@@ -8934,11 +8934,11 @@ msgstr "Razem"
 
 #: src/components/_economy/inventory/case/OpenCaseModal.tsx:410
 msgid "Total cases opened"
-msgstr ""
+msgstr "Łącznie otwartych skrzyń"
 
 #: src/components/_military/tournament/TournamentTeamTooltip.tsx:92
 msgid "Total damage"
-msgstr ""
+msgstr "Łączne obrażenie"
 
 #: src/components/_user/user/UserRankingsPanel.tsx:37
 msgid "Total damages"
@@ -8950,24 +8950,24 @@ msgstr "Łącznie przekazano:"
 
 #: src/components/_economy/itemTrading/ItemTradingOrderFormModal.tsx:497
 msgid "Total of <0/>"
-msgstr ""
+msgstr "Razem <0/>"
 
 #: src/components/_political/country/CountryDiplomacyGrid.tsx:409
 msgid "Total of <0>{totalMaintenanceCostPerDay}</0>/day"
-msgstr ""
+msgstr "Łącznie <0>{totalMaintenanceCostPerDay}</0>/dzień"
 
 #: src/components/_user/badgeCollection/Badge.tsx:63
 msgid "Total reward"
-msgstr ""
+msgstr "Wszystkie nagrody"
 
 #: src/components/_user/mission/MissionsHeader.tsx:95
 msgid "Total XP earned from missions and milestones"
-msgstr ""
+msgstr "Całkowite zdobyte XP z misji i kamieni milowych"
 
 #. placeholder {0}: leveling.totalXp ?? 0
 #: src/components/_user/user/Level.tsx:137
 msgid "Total XP earned: <0>{0}</0>"
-msgstr ""
+msgstr "Całkowite zodbyte XP: <0>{0}</0>"
 
 #: src/components/_military/mu/MuMemberList.tsx:361
 #: src/components/_military/mu/MuMemberList.tsx:401
@@ -9102,21 +9102,21 @@ msgstr "Zdejmij wszystko"
 
 #: src/components/_political/party/party.frontConfig.tsx:415
 msgid "Unethical"
-msgstr ""
+msgstr "Nieetyczny"
 
 #: src/components/_political/law/LawEthicEffects.tsx:79
 msgid "Unethical countries cannot hold any treaty — this law cannot be enacted."
-msgstr ""
+msgstr "Nieetyczne kraje nie mogą posiadać żadnych traktatów — to prawo nie może zostać uchwalone."
 
 #. placeholder {0}: ts.paper
 #: src/components/_military/battle/SetOrderFormModal.tsx:561
 msgid "Unethical: capital occupied, national orders give only the regular bonus but still cost ×2 <0>{0}</0>"
-msgstr ""
+msgstr "Nieetyczny: stolica okupowana, rozkazy narodowe dają tylko zwykły bonus, ale nadal kosztują 2x <0>{0}</0>"
 
 #. placeholder {0}: ts.paper
 #: src/components/_military/battle/SetOrderFormModal.tsx:556
 msgid "Unethical: national orders deal ×2 damage but cost ×2 <0>{0}</0>"
-msgstr ""
+msgstr "Nieetyczny: rozkazy narodowe zadają 2x więcej obrażeń, ale kosztują ×2 <0>{0}</0>"
 
 #: src/pages/region/[regionId]/index.tsx:200
 msgid "Unlinked"
@@ -9443,7 +9443,7 @@ msgstr ""
 
 #: src/components/_common/GameRules.tsx:143
 msgid "Valuable contributions will be recognized with the \"Bug Finder\" badge."
-msgstr ""
+msgstr "Wartościowy wkład zostanie doceniony odznaką \"Odkrywca Błędów\"."
 
 #: src/components/_user/user/militaryRankings.frontConfig.tsx:56
 msgid "Vanguard"
@@ -9494,7 +9494,7 @@ msgstr ""
 
 #: src/components/_user/mission/mission.frontConfig.tsx:484
 msgid "Vote"
-msgstr ""
+msgstr "Głosuj"
 
 #: src/components/_user/mission/mission.frontConfig.tsx:485
 msgid "Vote in an election"
@@ -9519,7 +9519,7 @@ msgstr "Pensja zmieniona"
 
 #: src/components/_economy/workOffer/EstimatedCompanyBenefit.tsx:119
 msgid "Wage cost ({productionPoints} pts):"
-msgstr ""
+msgstr "Koszt wynagrodzenia ({productionPoints} pts):"
 
 #: src/components/_user/worker/WorkerEditFormModal.tsx:183
 msgid "Wage per production"
@@ -9692,7 +9692,7 @@ msgstr ""
 
 #: src/components/_military/tournament/TournamentRegisterButton.tsx:103
 msgid "Withdraw"
-msgstr ""
+msgstr "Wycofaj się"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:185
 msgid "Wizard Hat"
@@ -9705,7 +9705,7 @@ msgstr "Wygrane przez"
 
 #: src/utils/translations.tsx:88
 msgid "Wood"
-msgstr ""
+msgstr "Drewno"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:251
 msgid "Wooden Self Bow"
@@ -9759,7 +9759,7 @@ msgstr "Świat <0/>"
 #: src/components/_layout/LayoutOptions.tsx:254
 #: src/components/_user/kits/KitsPopover.tsx:258
 msgid "Worst"
-msgstr "Najgorzej"
+msgstr "Najgorszy"
 
 #: src/components/_economy/inventory/case/cases.frontConfig.tsx:82
 msgid "Wow congratulations! Anyway have you considered buying premium?"
@@ -9780,7 +9780,7 @@ msgstr "Jak to w ogóle możliwe?"
 
 #: src/components/_common/GameRules.tsx:327
 msgid "X. Punishments and Appeals"
-msgstr ""
+msgstr "X. Kary i odwołania"
 
 #: src/components/_user/user/UserRankingsPanel.tsx:54
 msgid "XP"
@@ -9826,7 +9826,7 @@ msgstr "Jesteś bezrobotny"
 
 #: src/components/_political/partyMotion/PartyMotionList.tsx:44
 msgid "You are not a council member of this party"
-msgstr ""
+msgstr "Nie jesteś członkiem rady tej partii"
 
 #: src/pages/events/index.tsx:110
 msgid "You are not participating"
@@ -9838,7 +9838,7 @@ msgstr "Masz wielki skill!"
 
 #: src/components/_user/badgeCollection/badgeCollection.frontConfig.tsx:231
 msgid "You are/were a council member, sharing ideas and feedback to improve the game <3"
-msgstr ""
+msgstr "Jesteś/byłeś członkiem rady, dzielenie się pomysłami i opiniami w celu ulepszenia gry <3 "
 
 #: src/components/_user/badgeCollection/badgeCollection.frontConfig.tsx:149
 msgid "You are/were a part of the staff and helped the game to grow <3"
@@ -9940,7 +9940,7 @@ msgstr "Zużyłeś <0>{0}</0>, jego efekt zaczyna się teraz i kończy za <1>{bu
 
 #: src/components/_user/notification/notification.frontConfig.tsx:1738
 msgid "You have prestiged! Enjoy your permanent XP bonus and prestige point."
-msgstr ""
+msgstr "Zdobyleś prestiż! Ciesz się swoim stałym bonusem do XP i punktem prestiżu."
 
 #: src/pages/country/[countryId]/government.tsx:43
 msgid "You have resigned from the congress"
@@ -9996,7 +9996,7 @@ msgstr "Musisz mieć przynajmniej poziom {0}, aby zostać kandydatem."
 #: src/components/_political/region/RegionResistance.tsx:120
 #: src/components/_political/unrest/UnrestPanel.tsx:101
 msgid "You must be at least level {0} to contribute."
-msgstr ""
+msgstr "Musisz mieć przynajmniej poziom {0}, aby mieć swój wkład"
 
 #. placeholder {0}: gameConfig.election.voteMinLevel
 #: src/components/_political/election/Election.tsx:226
@@ -10299,7 +10299,7 @@ msgstr "Nazwa twojej jednostki wojskowej"
 
 #: src/components/_military/mu/MuSettings.tsx:53
 msgid "Your military unit nationality is the country it represents. Changing it is free and can only be done once every {cooldownDays} days."
-msgstr ""
+msgstr "Narodowość Twojej jednostki wojskowej zależy od reprezentowanego państwa. Zmiana jest bezpłatna i możliwa raz na {cooldownDays} dni."
 
 #: src/components/_user/notification/notification.frontConfig.tsx:1725
 msgid "Your monthly missions have been reset! Complete them to earn rewards."
