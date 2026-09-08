@@ -4191,11 +4191,12 @@ msgstr "Trova un'unità militare"
 msgid "Find another job"
 msgstr "Trova un altro lavoro"
 
-#: src/components/_political/government/Government.tsx:253
 #: src/components/_user/user/UserEffectSelector.tsx:61
-#: src/components/_user/worker/WorkerEditFormModal.tsx:214
 msgid "Fire"
-msgstr "Licenzia"
+msgstr "Infuocato"
+
+#: src/components/_political/government/Government.tsx:253
+#: src/components/_user/worker/WorkerEditFormModal.tsx:214
 
 #: src/components/_political/government/Government.tsx:265
 msgid "Fire government member"
