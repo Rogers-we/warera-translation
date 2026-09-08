@@ -9391,7 +9391,7 @@ msgstr "Valentýnská Kočičí Ouška"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:32
 msgid "Valentine Chest"
-msgstr "Valentýnská Vesta""
+msgstr "Valentýnská Vesta"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:56
 msgid "Valentine Gloves"
@@ -9557,7 +9557,7 @@ msgstr "Válka vyhlášena"
 
 #: src/pages/war/[warId]/index.tsx:49
 msgid "War Ended"
-msgstr "Válka skončila""
+msgstr "Válka skončila"
 
 #: src/components/_user/modals/PremiumModal.tsx:39
 msgid "War Era is 100% free to play and has no <0>ads</0> or <1>pay-to-win</1>, If you enjoy the game, you can support its development by subscribing to the Supporter Plan <3"
@@ -9722,7 +9722,7 @@ msgstr "Pracuj"
 
 #: src/components/_user/mission/mission.frontConfig.tsx:102
 msgid "Work <0/> times for an employer"
-msgstr "Odpracuj u zaměstnavatele {0}×"
+msgstr "Pracuj pro zaměstnavatele <0/>krát"
 
 #: src/components/_other/tour/tuto.frontConfig.tsx:72
 msgid "Work and earn!"
