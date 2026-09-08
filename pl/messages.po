@@ -10299,7 +10299,7 @@ msgstr "Nazwa twojej jednostki wojskowej"
 
 #: src/components/_military/mu/MuSettings.tsx:53
 msgid "Your military unit nationality is the country it represents. Changing it is free and can only be done once every {cooldownDays} days."
-msgstr Narodowość Twojej jednostki wojskowej zależy od reprezentowanego państwa. Zmiana jest bezpłatna i możliwa raz na {cooldownDays} dni."
+msgstr "Narodowość Twojej jednostki wojskowej zależy od reprezentowanego państwa. Zmiana jest bezpłatna i możliwa raz na {cooldownDays} dni."
 
 #: src/components/_user/notification/notification.frontConfig.tsx:1725
 msgid "Your monthly missions have been reset! Complete them to earn rewards."
