@@ -4195,7 +4195,7 @@ msgstr "Znajdź inną pracę"
 #: src/components/_user/user/UserEffectSelector.tsx:61
 #: src/components/_user/worker/WorkerEditFormModal.tsx:214
 msgid "Fire"
-msgstr "Ognień"
+msgstr "Zwolnij"
 
 #: src/components/_political/government/Government.tsx:265
 msgid "Fire government member"
