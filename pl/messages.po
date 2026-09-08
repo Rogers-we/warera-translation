@@ -4195,7 +4195,7 @@ msgstr "Znajdź inną pracę"
 #: src/components/_user/user/UserEffectSelector.tsx:61
 #: src/components/_user/worker/WorkerEditFormModal.tsx:214
 msgid "Fire"
-msgstr "Zwolnij"
+msgstr "Ognień"
 
 #: src/components/_political/government/Government.tsx:265
 msgid "Fire government member"
@@ -4383,7 +4383,7 @@ msgstr "Rękawice"
 
 #: src/components/_user/user/UserEffectSelector.tsx:57
 msgid "Glow"
-msgstr ""
+msgstr "Poświata"
 
 #: src/components/_economy/inventory/case/cases.frontConfig.tsx:95
 msgid "Go play lottery right now"
@@ -6343,7 +6343,7 @@ msgstr "Nominowany do rządu"
 
 #: src/components/_user/user/UserEffectSelector.tsx:55
 msgid "None"
-msgstr ""
+msgstr "Brak"
 
 #: src/components/_political/law/LawFormModal.tsx:217
 #: src/components/_political/law/LawFormModal.tsx:295
@@ -7164,7 +7164,7 @@ msgstr "Szybko rozbieraj przedmioty"
 
 #: src/components/_user/user/UserEffectSelector.tsx:60
 msgid "Rainbow"
-msgstr ""
+msgstr "Tęcza"
 
 #: src/components/_user/user/UserTooltip.tsx:158
 msgid "Rank"
@@ -8105,7 +8105,7 @@ msgstr ""
 
 #: src/components/_user/user/UserEffectSelector.tsx:56
 msgid "Shine"
-msgstr ""
+msgstr "Błyszczący"
 
 #: src/components/_layout/LayoutRightIcons.tsx:181
 #: src/components/_layout/MoreButtonNav.tsx:70
@@ -8417,7 +8417,7 @@ msgstr "Zasoby strategiczne zostały przetasowane na całej mapie"
 
 #: src/components/_user/user/UserEffectSelector.tsx:58
 msgid "Stripes"
-msgstr ""
+msgstr "Pasy"
 
 #: src/components/_social/ArticleList.tsx:217
 msgid "Subscribed"
