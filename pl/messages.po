@@ -8639,8 +8639,8 @@ msgid "The deposit will expire in the following amount of time."
 msgstr "Zasoby wygasną w następującym czasie."
 
 #: src/components/_user/notification/notification.frontConfig.tsx:716
-msgid "The effect of your consumed buffs has ended. The debuff phase has begun and will last <0>{debuffDuration}godz</0>."
-msgstr "Efekt zużytych buffów zakończył się. Faza debuffu się rozpoczęła i potrwa <0>{debuffDuration}h</0>."
+msgid "The effect of your consumed buffs has ended. The debuff phase has begun and will last <0>{debuffDuration}h</0>."
+msgstr "Efekt zużytych buffów zakończył się. Faza debuffu rozpoczęła się i potrwa <0>{debuffDuration}godz</0>."
 
 #: src/components/_political/alliance/AllianceBattleBonus.tsx:53
 msgid "The full bonus of <0/> applies up to <1/> share of global <2>Development</2>. Above that, the bonus drops by <3/> per percentage point of share over the plateau, down to <4/>."
@@ -10371,7 +10371,7 @@ msgstr "Twoje misje tygodniowe zostały zresetowane! Wykonaj je, aby zdobyć nag
 msgid "your@email.com"
 msgstr "twoj@email.com"
 
-#: src/components/_political/chat/ConversationsMenu.tsx:152
+#: src/components/_political/chat/ChatConversationsMenu.tsx:152
 #: src/components/_social/ArticleList.tsx:223
 msgid "Yours"
 msgstr "Twoje"
