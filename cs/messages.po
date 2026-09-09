@@ -8130,7 +8130,7 @@ msgstr "Show all {0} bids"
 #: src/components/_social/ArticleTags.tsx:419
 #: src/components/_user/user/UserRankingsPanel.tsx:162
 msgid "Show more"
-msgstr "Show more"
+msgstr "Zobrazit více"
 
 #. placeholder {0}: items.length - modalLimit
 #: src/components/_economy/inventory/MultiItems.tsx:88
