@@ -1499,7 +1499,7 @@ msgstr "Wszystkie rundy"
 
 #: src/components/_other/shop/SkinPackModal.tsx:269
 msgid "All skins owned"
-msgstr "Wsszystkie posiadane skórki"
+msgstr "Wszystkie skórki posiadane"
 
 #: src/components/_common/GameRules.tsx:103
 msgid "All transactions must stay fair and balanced."
@@ -1572,7 +1572,7 @@ msgstr "Prawie gotowe..."
 
 #: src/components/_user/badgeCollection/badgeCollection.frontConfig.tsx:115
 msgid "Alpha Tester"
-msgstr ""
+msgstr "Alpha Tester"
 
 #: src/components/_user/UserEquipments.tsx:148
 #: src/utils/translations.tsx:35
@@ -1639,7 +1639,7 @@ msgstr "Inny kraj złożył propozycję paktu obronnego"
 
 #: src/components/_other/shop/skinPack.frontConfig.tsx:40
 msgid "Anti Terrorist Pack"
-msgstr ""
+msgstr "Zestaw Jednostki Antyterrorystycznej"
 
 #: src/components/_common/GameRules.tsx:105
 msgid "Any attempts to bypass these rules can result in the removal of sharing status, fines and temporary or permanent bans."
@@ -1697,7 +1697,7 @@ msgstr "Zatwierdzony"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:182
 msgid "Arcane Boots"
-msgstr ""
+msgstr "Tajemne Buty"
 
 #: src/components/_economy/inventory/ConsumeItems.tsx:236
 msgid "Are you sure you want to consume pill?"
@@ -1793,23 +1793,23 @@ msgstr "Artykuły autora <0/>"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:305
 msgid "AT Ammo"
-msgstr ""
+msgstr "Amunicja AT"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:296
 msgid "AT Armored Tank"
-msgstr ""
+msgstr "Pojazd Opancerzony AT"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:290
 msgid "AT Assault Rifle"
-msgstr ""
+msgstr "Karabin Szturmowy AT"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:299
 msgid "AT Combat Helicopter"
-msgstr ""
+msgstr "Helikopter Bojowy AT"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:308
 msgid "AT Heavy Ammo"
-msgstr ""
+msgstr "Ciężka Amunicja AT"
 
 #: src/components/_military/tournament/TournamentRegistrationPanel.tsx:152
 msgid "At least {MIN_REGISTRATIONS} are needed or the tournament is cancelled."
@@ -1821,39 +1821,39 @@ msgstr "Przynajmniej próbowałeś"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:302
 msgid "AT Light Ammo"
-msgstr ""
+msgstr "Lekka Amunicja AT"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:287
 msgid "AT Pistol"
-msgstr ""
+msgstr "Pistolet AT"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:293
 msgid "AT Sniper Rifle"
-msgstr ""
+msgstr "Karabin Snajperski AT"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:317
 msgid "AT Tactical Boots"
-msgstr ""
+msgstr "Buty Taktyczne AT"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:323
 msgid "AT Tactical Gloves"
-msgstr ""
+msgstr "Rękawice Taktyczne AT"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:311
 msgid "AT Tactical Helmet"
-msgstr ""
+msgstr "Hełm Taktyczne AT"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:320
 msgid "AT Tactical Pants"
-msgstr ""
+msgstr "Spodnie Taktyczne AT"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:284
 msgid "AT Tactical Shield"
-msgstr ""
+msgstr "Tarcza Taktyczna AT"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:314
 msgid "AT Tactical Vest"
-msgstr ""
+msgstr "Kamizelka Taktyczna AT"
 
 #: src/components/_military/battle/BattleSystem.tsx:623
 msgid "At the end of the timer <0>{actualTickPoints}</0> will be assigned to the side with the most damages."
@@ -1952,7 +1952,7 @@ msgstr "b. Ujawnianie informacji osobistych lub doxxing (takich jak nazwiska lub
 
 #: src/components/_user/badgeCollection/badgeCollection.frontConfig.tsx:176
 msgid "Baby Boomer"
-msgstr ""
+msgstr "Baby Boomer"
 
 #: src/components/_layout/LayoutOptions.tsx:170
 msgid "Background pattern"
@@ -1981,7 +1981,7 @@ msgstr "Zrównoważony - Bez modyfikatorów"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:359
 msgid "Ball"
-msgstr ""
+msgstr "Piłka"
 
 #: src/components/_political/event/EventList.tsx:116
 msgid "Bankruptcy"
@@ -2155,7 +2155,7 @@ msgstr "Typ terenu"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:8
 msgid "Birthday Hat for 1st year of Beta"
-msgstr ""
+msgstr "Urodzinowa Czapeczka z okazji 1 roku bety"
 
 #: src/components/_user/user/UserDropdown.tsx:312
 msgid "Block (hide content)"
@@ -2163,7 +2163,7 @@ msgstr "Zablokuj (ukryj treści)"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:164
 msgid "Blue Staff"
-msgstr ""
+msgstr "Niebieski Drąg"
 
 #: src/components/_layout/LayoutOptions.tsx:162
 msgid "Blur"
@@ -2171,7 +2171,7 @@ msgstr "Rozmycie"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:242
 msgid "Bone Club"
-msgstr ""
+msgstr "Kościana Pała"
 
 #: src/components/_military/battle/BattleDamageBonuses.tsx:62
 #: src/components/_political/law/law.frontConfig.tsx:235
@@ -2227,7 +2227,7 @@ msgstr "Brygadier"
 
 #: src/components/_other/shop/SkinCollectionModal.tsx:103
 msgid "Browse Packs"
-msgstr ""
+msgstr "Przeglądaj Zestawy"
 
 #: src/components/_military/mercenaryContract/CreateAuctionModal.tsx:151
 msgid "Budget"
@@ -2426,11 +2426,11 @@ msgstr "Otwarte skrzynki"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:92
 msgid "Catapult"
-msgstr ""
+msgstr "Katapulta"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:269
 msgid "Cave Bear Headdress"
-msgstr ""
+msgstr "Hełm z Niedźwiedzia Jaskiniowego"
 
 #: src/components/_user/user/skills.frontConfig.tsx:152
 msgid "Chance per hit to instantly loot:<0/>Each <1>1%</1> gives<2>1%</2> and <3>0.01%</3> to loot cases per hit."
@@ -2639,11 +2639,11 @@ msgstr "Zamknij"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:266
 msgid "Clovis Point"
-msgstr ""
+msgstr "Ostrze Clovis"
 
 #: src/components/_other/shop/skinPack.frontConfig.tsx:37
 msgid "Cold af"
-msgstr ""
+msgstr "Zimno żjp"
 
 #: src/components/_user/user/militaryRankings.frontConfig.tsx:106
 msgid "Colonel"
@@ -2962,7 +2962,7 @@ msgstr "Członek rady do usunięcia"
 
 #: src/components/_other/shop/skinPack.frontConfig.tsx:41
 msgid "Counter-strike the enemy"
-msgstr ""
+msgstr "Kontratakuj wroga"
 
 #: src/components/_layout/LoadingScreenContent.tsx:22
 msgid "countries"
@@ -3128,7 +3128,7 @@ msgstr "Trafienie krytyczne"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:89
 msgid "Crossbow"
-msgstr ""
+msgstr "Łuk"
 
 #: src/components/_political/alliance/AllianceBattleBonus.tsx:76
 msgid "Current alliance battle damage bonus → <0/>"
@@ -3226,11 +3226,11 @@ msgstr "Ciemny"
 
 #: src/components/_other/shop/skinPack.frontConfig.tsx:25
 msgid "Dark Era"
-msgstr ""
+msgstr "Mroczna Era"
 
 #: src/components/_other/shop/skinPack.frontConfig.tsx:24
 msgid "Dark Era Pack"
-msgstr ""
+msgstr "Zestaw Mrocznej Ery"
 
 #: src/components/_layout/LayoutOptions.tsx:153
 msgid "Dark map"
@@ -3479,51 +3479,51 @@ msgstr "Rozwój"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:383
 msgid "Diesel Bomber Jacket"
-msgstr ""
+msgstr "Bomberka Diesel"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:386
 msgid "Diesel Boots"
-msgstr ""
+msgstr "Buty Diesel"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:362
 msgid "Diesel Butterfly Knife"
-msgstr ""
+msgstr "Nóż motylkowy Diesel"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:392
 msgid "Diesel Gloves"
-msgstr ""
+msgstr "Rękawiczki Diesel"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:389
 msgid "Diesel Pants"
-msgstr ""
+msgstr "Spodnie Diesel"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:365
 msgid "Diesel Pistol"
-msgstr ""
+msgstr "Pistolet Diesel"
 
 #: src/components/_other/shop/skinPack.frontConfig.tsx:48
 msgid "Diesel Power"
-msgstr ""
+msgstr "Moc Diesel"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:368
 msgid "Diesel Rifle"
-msgstr ""
+msgstr "Karabin Diesel"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:380
 msgid "Diesel Shades"
-msgstr ""
+msgstr "Szkła Diesel"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:377
 msgid "Diesel Smuggler Plane"
-msgstr ""
+msgstr "Awionetka Diesel"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:371
 msgid "Diesel Sniper"
-msgstr ""
+msgstr "Snajperka Diesel"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:374
 msgid "Diesel Sports Sedan"
-msgstr ""
+msgstr "Sportowy Sedan Diesel"
 
 #: src/components/_user/mission/mission.frontConfig.tsx:301
 msgid "Diminish <0/> received damages with <1>Armor</1> in battles"
@@ -3654,7 +3654,7 @@ msgstr "Przeciągnij, aby zmienić numer priorytetu rozkazów."
 
 #: src/components/_other/shop/skin.frontConfig.tsx:155
 msgid "Dragon"
-msgstr ""
+msgstr "Smok"
 
 #: src/components/_common/GameRules.tsx:262
 msgid "e. Content about ongoing real-world wars and armed conflicts (most notably the Russo-Ukrainian war and the Israeli–Palestinian conflict)"
@@ -3775,7 +3775,7 @@ msgstr "Elitarny Napierśnik"
 
 #: src/components/_other/shop/skinPack.frontConfig.tsx:45
 msgid "Elite counter-terrorism unit"
-msgstr ""
+msgstr "Jednostka Specjalna"
 
 #: src/utils/translations.tsx:216
 msgid "Elite Gloves"
@@ -3813,7 +3813,7 @@ msgstr "Koszt uchwalenia"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:188
 msgid "Enchanted Trousers"
-msgstr ""
+msgstr "Czarodziejskie spodnie"
 
 #: src/components/_political/law/law.frontConfig.tsx:307
 msgid "End an existing defensive pact with another country"
@@ -4064,31 +4064,31 @@ msgstr "Fanatyczny Republikanin"
 
 #: src/components/_other/shop/skinPack.frontConfig.tsx:21
 msgid "Farmer"
-msgstr ""
+msgstr "Rolnik"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:146
 msgid "Farmer Boots"
-msgstr ""
+msgstr "Buty Rolnika"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:143
 msgid "Farmer Chest"
-msgstr ""
+msgstr "Kamizelka Rolnika"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:152
 msgid "Farmer Gloves"
-msgstr ""
+msgstr "Rękawice Rolnika"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:140
 msgid "Farmer Helmet"
-msgstr ""
+msgstr "Kapelusz Rolnika"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:137
 msgid "Farmer Knife"
-msgstr ""
+msgstr "Nóż Rolnika"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:149
 msgid "Farmer Pants"
-msgstr ""
+msgstr "Spodnie Rolnika"
 
 #: src/components/_military/battle/ActiveBattlesList.tsx:88
 #: src/components/_military/battle/ActiveBattlesList.tsx:168
@@ -4219,7 +4219,7 @@ msgstr "Flagi"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:158
 msgid "Flail"
-msgstr ""
+msgstr "Cep bojowy"
 
 #: src/components/_layout/LayoutOptions.tsx:259
 msgid "Font"
@@ -4264,19 +4264,19 @@ msgstr "Ciekawostka: Kasyno zawsze wygrywa"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:275
 msgid "Fur Boots"
-msgstr ""
+msgstr "Futrzane Buty"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:278
 msgid "Fur Loincloth"
-msgstr ""
+msgstr "Futrzana Biodrówka"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:281
 msgid "Fur Mittens"
-msgstr ""
+msgstr "Futrzane Mitenki"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:272
 msgid "Fur Tunic"
-msgstr ""
+msgstr "Futrzana Tunika"
 
 #: src/components/_common/GameRules.tsx:278
 msgid "g. The use of profiles (picture, description, name) related to aforementioned ideologies and movements as well as political figures linked to ongoing real-world wars and armed conflicts. Humoristic names, descriptions and pictures are tolerated, with the exception of any content related to nazism and neo-nazism."
@@ -4440,71 +4440,71 @@ msgstr "Świetna robota! Uderz jeszcze kilka razy, aby pomóc swojej stronie wyg
 
 #: src/components/_other/shop/skin.frontConfig.tsx:161
 msgid "Green Staff"
-msgstr ""
+msgstr "Zielony Drąg"
 
 #: src/components/_other/shop/skinPack.frontConfig.tsx:29
 msgid "Grimdark"
-msgstr ""
+msgstr "Gridmark"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:218
 msgid "Grimdark Ammo"
-msgstr ""
+msgstr "Grimdarkowa Amunicja"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:230
 msgid "Grimdark Boots"
-msgstr ""
+msgstr "Grimdarkowe Buty"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:227
 msgid "Grimdark Chest"
-msgstr ""
+msgstr "Grimdarkowa Kamizelka"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:236
 msgid "Grimdark Gloves"
-msgstr ""
+msgstr "Grimdarkowe Rękawice"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:200
 msgid "Grimdark Gun"
-msgstr ""
+msgstr "Grimdarkowy Pistolet"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:221
 msgid "Grimdark Heavy Ammo"
-msgstr ""
+msgstr "Grimdarkowa Ciężka Amunicja"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:224
 msgid "Grimdark Helmet"
-msgstr ""
+msgstr "Grimdarkowy Hełm"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:212
 msgid "Grimdark Jet"
-msgstr ""
+msgstr "Grimdarkowy Samolot"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:197
 msgid "Grimdark Knife"
-msgstr ""
+msgstr "Grimdarkowy Nóż"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:215
 msgid "Grimdark Light Ammo"
-msgstr ""
+msgstr "Grimddarkowa Lekka Amunicja"
 
 #: src/components/_other/shop/skinPack.frontConfig.tsx:28
 msgid "Grimdark Pack"
-msgstr ""
+msgstr "Grimdarkowy Zestaw"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:233
 msgid "Grimdark Pants"
-msgstr ""
+msgstr "Grimdarkowe Spodnie"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:203
 msgid "Grimdark Rifle"
-msgstr ""
+msgstr "Grimdarkowy Karabin"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:206
 msgid "Grimdark Sniper"
-msgstr ""
+msgstr "Grimdarkowa Snajperka"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:209
 msgid "Grimdark Tank"
-msgstr ""
+msgstr "Grimdarkowy Czołg"
 
 #: src/components/_user/user/UserRankingsPanel.tsx:43
 msgid "Ground"
@@ -4520,51 +4520,51 @@ msgstr "Punkty terenu"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:338
 msgid "GSG9 Armored Tank"
-msgstr ""
+msgstr "GSG9 Pojaz Opancerzony"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:332
 msgid "GSG9 Assault Rifle"
-msgstr ""
+msgstr "GSG9 Karabin Szturmowy"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:341
 msgid "GSG9 Combat Helicopter"
-msgstr ""
+msgstr "GSG9 Helikopter Bojowy"
 
 #: src/components/_other/shop/skinPack.frontConfig.tsx:44
 msgid "GSG9 Pack"
-msgstr ""
+msgstr "Zestaw GSG9"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:329
 msgid "GSG9 Pistol"
-msgstr ""
+msgstr "GSG9 Pistolet"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:335
 msgid "GSG9 Sniper Rifle"
-msgstr ""
+msgstr "GSG9 Karabin Snajperski"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:350
 msgid "GSG9 Tactical Boots"
-msgstr ""
+msgstr "GSG9 Buty Taktyczne"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:356
 msgid "GSG9 Tactical Gloves"
-msgstr ""
+msgstr "GSG9 Rękawice Taktyczne"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:344
 msgid "GSG9 Tactical Helmet"
-msgstr ""
+msgstr "GSG9 Hełm Taktyczny"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:353
 msgid "GSG9 Tactical Pants"
-msgstr ""
+msgstr "GSG9 Spodnie Taktyczne"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:326
 msgid "GSG9 Tactical Shield"
-msgstr ""
+msgstr "GSG9 Tarcza Taktyczna"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:347
 msgid "GSG9 Tactical Vest"
-msgstr ""
+msgstr "GSG9 Napierśnik Taktyczny"
 
 #: src/utils/translations.tsx:23
 msgid "Gun"
@@ -4576,7 +4576,7 @@ msgstr "h. Wychwalanie, promowanie lub zachęcanie do łamania zasad albo oszuki
 
 #: src/components/_other/shop/skin.frontConfig.tsx:239
 msgid "Hamster Tank"
-msgstr ""
+msgstr "Chomikowy Czołg"
 
 #: src/components/_user/badgeCollection/badgeCollection.frontConfig.tsx:85
 msgid "Hard Worker"
@@ -4992,7 +4992,7 @@ msgstr "Wyrzuć członka"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:263
 msgid "Knapped Flints"
-msgstr ""
+msgstr "Krzesane Krzemienie"
 
 #: src/utils/translations.tsx:22
 msgid "Knife"
@@ -5085,7 +5085,7 @@ msgstr "Lider"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:248
 msgid "Leather Sling"
-msgstr ""
+msgstr "Skórzana Proca"
 
 #: src/components/_economy/company/CompanyDropdown.tsx:300
 msgid "Leave"
@@ -5278,7 +5278,7 @@ msgstr "Wyloguj"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:86
 msgid "Long Sword"
-msgstr ""
+msgstr "Długi Miecz"
 
 #: src/components/_user/mission/mission.frontConfig.tsx:323
 msgid "Loot <0/> in battles"
@@ -5307,7 +5307,7 @@ msgstr "Łupy"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:23
 msgid "Love Paper Jet"
-msgstr ""
+msgstr "Samolot Miłosny"
 
 #: src/components/_user/user/militaryRankings.frontConfig.tsx:101
 msgid "Lt. Colonel"
@@ -5327,7 +5327,7 @@ msgstr "Poziom"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:191
 msgid "Mage Robe"
-msgstr ""
+msgstr "Szata Czarodzieja"
 
 #: src/components/_political/law/Law.tsx:121
 msgid "Maintenance cost"
@@ -5428,47 +5428,47 @@ msgstr "Może następnym razem ^^"
 
 #: src/components/_other/shop/skinPack.frontConfig.tsx:13
 msgid "Medieval"
-msgstr ""
+msgstr "Średniowiecze"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:68
 msgid "Medieval Boots"
-msgstr ""
+msgstr "Średniowieczne Buty"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:62
 msgid "Medieval Chest"
-msgstr ""
+msgstr "Średniowieczna Kamizelka"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:71
 msgid "Medieval Gloves"
-msgstr ""
+msgstr "Średniowieczne Rękawice"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:59
 msgid "Medieval Helmet"
-msgstr ""
+msgstr "Średniowieczny Hełm"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:77
 msgid "Medieval Iron Arrow"
-msgstr ""
+msgstr "Średniowieczna Żelazna Strzała"
 
 #: src/components/_other/shop/skinPack.frontConfig.tsx:12
 msgid "Medieval Pack"
-msgstr ""
+msgstr "Zestaw Średniowieczny"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:65
 msgid "Medieval Pants"
-msgstr ""
+msgstr "Średniowieczne Spodnie"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:83
 msgid "Medieval Spear"
-msgstr ""
+msgstr "Średniowieczna Włócznia"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:80
 msgid "Medieval Steel Arrow"
-msgstr ""
+msgstr "Średniowieczna Stalowa Strzała"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:74
 msgid "Medieval Stone Arrow"
-msgstr ""
+msgstr "Średniowieczna Kamienna Strzała"
 
 #: src/components/_other/tour/tuto.frontConfig.tsx:202
 msgid "Meet other players in the chat. Don't be shy, introduce yourself!"
@@ -5554,51 +5554,51 @@ msgstr "Polubiono wiadomość"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:413
 msgid "Miami Aviators"
-msgstr ""
+msgstr "Awiatorki Miami"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:416
 msgid "Miami Blazer"
-msgstr ""
+msgstr "Marynarka Miami"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:419
 msgid "Miami Boots"
-msgstr ""
+msgstr "Buty Miami"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:395
 msgid "Miami Brass Knuckles"
-msgstr ""
+msgstr "Kastet Miami"
 
 #: src/components/_other/shop/skinPack.frontConfig.tsx:52
 msgid "Miami Cartel"
-msgstr ""
+msgstr "Kartel Miami"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:425
 msgid "Miami Gloves"
-msgstr ""
+msgstr "Rękawiczki Miami"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:422
 msgid "Miami Pants"
-msgstr ""
+msgstr "Spodnie Miami"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:398
 msgid "Miami Pistol"
-msgstr ""
+msgstr "Pistolet Miami"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:401
 msgid "Miami Rifle"
-msgstr ""
+msgstr "Strzelba Miami"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:404
 msgid "Miami Sniper"
-msgstr ""
+msgstr "Snajperka Miami"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:410
 msgid "Miami Speedboat"
-msgstr ""
+msgstr "Motorówka Miami"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:407
 msgid "Miami Supercar"
-msgstr ""
+msgstr "Bolid Miami"
 
 #: src/components/_user/mission/MissionsHeader.tsx:82
 #: src/components/_user/user/UserRankingsPanel.tsx:86
@@ -6883,7 +6883,7 @@ msgstr "Precyzja"
 
 #: src/components/_other/shop/skinPack.frontConfig.tsx:32
 msgid "Prehistoric Pack"
-msgstr ""
+msgstr "Zestaw Prehistoryczny"
 
 #: src/pages/shop/index.tsx:171
 msgid "Premium"
@@ -7143,7 +7143,7 @@ msgstr "Kary wraz z uzasadnieniem są widoczne na profilach graczy. Gracze mogą
 
 #: src/components/_other/shop/skin.frontConfig.tsx:167
 msgid "Purple Staff"
-msgstr ""
+msgstr "Purpurowy Drąg"
 
 #: src/components/_other/tour/tuto.frontConfig.tsx:35
 msgid "Put yourself to work!"
@@ -7353,7 +7353,7 @@ msgstr "Rekrut"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:170
 msgid "Red Staff"
-msgstr ""
+msgstr "Czerwony Drąg"
 
 #: src/components/_user/user/skills.frontConfig.tsx:70
 msgid "Reduces health lost when fighting in battles"
@@ -8220,7 +8220,7 @@ msgstr "Skórki w zestawie"
 
 #: src/components/_user/user/UserRankingsPanel.tsx:98
 msgid "Skins owned"
-msgstr "Skórki posiadane"
+msgstr "Posiadane Skórki"
 
 #: src/components/_other/tour/TutorialStep.tsx:185
 msgid "Skip Tutorial"
@@ -8228,7 +8228,7 @@ msgstr "Pomiń samouczek"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:260
 msgid "Sling Stones"
-msgstr ""
+msgstr "Kamienie do Procy"
 
 #: src/components/_layout/LayoutOptions.tsx:207
 msgid "Small GIFs"
@@ -8236,7 +8236,7 @@ msgstr "Małe GIFy"
 
 #: src/utils/translations.tsx:25
 msgid "Sniper"
-msgstr "Snajper"
+msgstr "Snajperka"
 
 #: src/components/_user/notification/notificationPrefs.categories.ts:156
 msgid "Social & Messages"
@@ -8268,7 +8268,7 @@ msgstr "Atut"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:194
 msgid "Spellcaster Gloves"
-msgstr ""
+msgstr "Rękawice Zaklinacza"
 
 #: src/components/_other/tour/tuto.frontConfig.tsx:74
 msgid "Spend your <0>Energy</0> working here to earn <1>Money</1>. Keep clicking to work more!"
@@ -8392,7 +8392,7 @@ msgstr "Stal"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:245
 msgid "Stone Maul"
-msgstr ""
+msgstr "Kamienny Młot"
 
 #: src/components/_economy/company/CompanyTags.tsx:107
 #: src/components/_other/upgrade/upgrade.frontConfig.tsx:83
@@ -8437,7 +8437,7 @@ msgstr "Pomyślnie zalogowano!"
 
 #: src/components/_user/badgeCollection/badgeCollection.frontConfig.tsx:165
 msgid "Sugar Daddy"
-msgstr ""
+msgstr "Sugar Daddy"
 
 #: src/components/_user/premium/PremiumActions.tsx:60
 msgid "Support the game"
@@ -8515,7 +8515,7 @@ msgstr "Traktaty o zaprzysięgłym wrogu rozpoczynają się od poziomu <0>{0} lo
 #. placeholder {0}: ts.paper
 #: src/components/_military/battle/SetOrderFormModal.tsx:537
 msgid "Sworn enemy: orders against your sworn enemy cost {orderDiscountPercent}% less <0>{0}</0>"
-msgstr "Zaprzysięgły wróg: rozkazy przeciwko t wojemu śmiertelnemu wrogowi kosztują {orderDiscountPercent}% mniej <0>{0}</0>"
+msgstr "Zaprzysięgły wróg: rozkazy przeciwko twojemu śmiertelnemu wrogowi kosztują {orderDiscountPercent}% mniej <0>{0}</0>"
 
 #: src/components/_political/event/EventList.tsx:115
 msgid "System revolt"
@@ -8538,7 +8538,7 @@ msgstr "Czołg"
 #: src/components/_user/milestone/MilestoneItem.tsx:163
 #: src/components/_user/milestone/MilestoneItem.tsx:251
 msgid "Tap for the full tier breakdown"
-msgstr "Kliknij, aby zobaczyć pełny podział na poziomy"
+msgstr "Kliknij, aby zobaczyć pełny podział na progi"
 
 #: src/components/_political/law/LawFormModal.tsx:193
 msgid "Target country"
@@ -8764,7 +8764,7 @@ msgstr "To będzie wymagało od użytkownika weryfikacji numeru telefonu."
 #. placeholder {0}: milestone.tier
 #: src/components/_user/milestone/MilestoneItem.tsx:132
 msgid "Tier {0}"
-msgstr "Poziom {0}"
+msgstr "Szczebel {0}"
 
 #: src/components/_other/tour/tuto.frontConfig.tsx:130
 msgid "Time to fight for your country! Let's join the action."
@@ -8776,63 +8776,63 @@ msgstr "Czas produkować!"
 
 #: src/components/_other/shop/skinPack.frontConfig.tsx:17
 msgid "Tiny Pixel"
-msgstr ""
+msgstr "Malutki Pixel"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:98
 msgid "Tiny Pixel Ammo"
-msgstr ""
+msgstr "Amunicyjka Malutkiego Pixela"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:110
 msgid "Tiny Pixel Boots"
-msgstr ""
+msgstr "Buciki Malutkiego Pixela"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:107
 msgid "Tiny Pixel Chest"
-msgstr ""
+msgstr "Napierśniczek Malutkiego Pixela"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:116
 msgid "Tiny Pixel Gloves"
-msgstr ""
+msgstr "Rękawiczusie Malutkiego Pixela"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:119
 msgid "Tiny Pixel Gun"
-msgstr ""
+msgstr "Pistolecik Malutkiego Pixela"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:101
 msgid "Tiny Pixel Heavy Ammo"
-msgstr ""
+msgstr "Ciężka Amunicyjka Malutkiego Pixela"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:104
 msgid "Tiny Pixel Helmet"
-msgstr ""
+msgstr "Hełmek Malutkiego Pixela"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:131
 msgid "Tiny Pixel Jet"
-msgstr ""
+msgstr "Samolocik Malutkiego Pixela"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:134
 msgid "Tiny Pixel Light Ammo"
-msgstr ""
+msgstr "Leciuteńka Amunicyjka Malutkiego Pixela"
 
 #: src/components/_other/shop/skinPack.frontConfig.tsx:16
 msgid "Tiny Pixel Pack"
-msgstr ""
+msgstr "Zestawik Malutkiego Pixela"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:113
 msgid "Tiny Pixel Pants"
-msgstr ""
+msgstr "Spodenki Malutkiego Pixela"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:122
 msgid "Tiny Pixel Rifle"
-msgstr ""
+msgstr "Karabinuś Malutkiego Pixela"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:125
 msgid "Tiny Pixel Sniper"
-msgstr ""
+msgstr "Snajpereczka Malutkiego Pixela"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:128
 msgid "Tiny Pixel Tank"
-msgstr ""
+msgstr "Czołguś Malutkiego Pixela"
 
 #: src/components/_user/mission/mission.frontConfig.tsx:312
 msgid "Tip <0/> articles"
@@ -8848,15 +8848,15 @@ msgstr "Nazwa Tokenu"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:179
 msgid "Tome of Flames"
-msgstr ""
+msgstr "Księga Płomieni"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:176
 msgid "Tome of Storms"
-msgstr ""
+msgstr "Księga Burz"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:173
 msgid "Tome of Tides"
-msgstr ""
+msgstr "Księga Przypływów"
 
 #: src/components/_military/damageRanking/BattleLoot.tsx:124
 #: src/components/_social/ArticleList.tsx:209
@@ -8865,7 +8865,7 @@ msgstr "Top"
 
 #: src/components/_social/ArticleList.tsx:196
 msgid "Top (1d)"
-msgstr ""
+msgstr "Top (1d)"
 
 #: src/components/_social/ArticleList.tsx:203
 msgid "Top (1w)"
@@ -8875,7 +8875,7 @@ msgstr "Top (1t)"
 #: src/components/_user/milestone/MilestoneItem.tsx:235
 #: src/components/_user/milestone/MilestoneItem.tsx:257
 msgid "Top {0}%"
-msgstr ""
+msgstr "Top {0}%"
 
 #: src/components/_user/badgeCollection/badgeCollection.frontConfig.tsx:74
 msgid "Top 1 damage in a battle"
@@ -8911,7 +8911,7 @@ msgstr "Top darczyńców miesiąca"
 
 #: src/components/_user/badgeCollection/badgeCollection.frontConfig.tsx:97
 msgid "Top of the hill"
-msgstr ""
+msgstr "Władca Ziem"
 
 #: src/components/_military/battle/BattleSystem.tsx:672
 msgid "total"
@@ -8934,7 +8934,7 @@ msgstr "Razem"
 
 #: src/components/_economy/inventory/case/OpenCaseModal.tsx:410
 msgid "Total cases opened"
-msgstr "Łącznie otwartych skrzyń"
+msgstr "Łącznie otwartych skrzynek"
 
 #: src/components/_military/tournament/TournamentTeamTooltip.tsx:92
 msgid "Total damage"
@@ -9066,7 +9066,7 @@ msgstr "Tłumacz"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:95
 msgid "Trebuchet"
-msgstr ""
+msgstr "Trebusz"
 
 #: src/components/_user/user/militaryRankings.frontConfig.tsx:36
 msgid "Trooper"
@@ -9086,11 +9086,11 @@ msgstr "Kategoria"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:257
 msgid "Tyrannosaurus Rex"
-msgstr ""
+msgstr "Tyrannosaurus Rex"
 
 #: src/components/_layout/LayoutOptions.tsx:159
 msgid "UI"
-msgstr ""
+msgstr "UI"
 
 #: src/components/_user/user/UserDropdown.tsx:311
 msgid "Unblock (show content)"
@@ -9150,7 +9150,7 @@ msgstr "Odblokowano zestaw"
 
 #: src/components/_user/user/UserHeader.tsx:465
 msgid "Unmuted <0/>"
-msgstr "Wyłączono wyciszenie <0/>"
+msgstr "Uciszono <0/>"
 
 #: src/components/_economy/inventory/case/cases.frontConfig.tsx:93
 msgid "Unreal. This doesn't happen"
@@ -9375,71 +9375,71 @@ msgstr "Graczy online"
 
 #: src/components/_other/shop/skinPack.frontConfig.tsx:9
 msgid "UwU"
-msgstr ""
+msgstr "UwU"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:11
 msgid "Valentine Ammo"
-msgstr ""
+msgstr "Walentynkowa Amunicja"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:50
 msgid "Valentine Boots"
-msgstr ""
+msgstr "Walentynkowe Buty"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:29
 msgid "Valentine Cat Ears"
-msgstr ""
+msgstr "Walentynkowe Kocie Uszy"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:32
 msgid "Valentine Chest"
-msgstr ""
+msgstr "Walentynkowa Kamizelka"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:56
 msgid "Valentine Gloves"
-msgstr ""
+msgstr "Walentynkowe Rękawice"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:44
 msgid "Valentine Gun"
-msgstr ""
+msgstr "Walentynkowa Spluwa"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:17
 msgid "Valentine Heavy Ammo"
-msgstr ""
+msgstr "Walentynkowa Ciężka Amunicja"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:38
 msgid "Valentine Knife"
-msgstr ""
+msgstr "Walentynkowy Nóż"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:14
 msgid "Valentine Light Ammo"
-msgstr ""
+msgstr "Walentynkowa Lekka Amunicja"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:41
 msgid "Valentine Lollipop"
-msgstr ""
+msgstr "Walentynkowy Lizaczek"
 
 #: src/components/_other/shop/skinPack.frontConfig.tsx:8
 msgid "Valentine Pack"
-msgstr ""
+msgstr "Zestaw Walentynkowy"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:35
 msgid "Valentine Pants"
-msgstr ""
+msgstr "Walentynkowe Spodnie"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:47
 msgid "Valentine Rifle"
-msgstr ""
+msgstr "Walentynkowy Karabin"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:26
 msgid "Valentine Skirt"
-msgstr ""
+msgstr "Walentynkowa Spódniczka"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:53
 msgid "Valentine Sniper"
-msgstr ""
+msgstr "Walentynkowa Snajperka"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:20
 msgid "Valentine Tank"
-msgstr ""
+msgstr "Walentynkowy Czołg"
 
 #: src/components/_common/GameRules.tsx:143
 msgid "Valuable contributions will be recognized with the \"Bug Finder\" badge."
@@ -9658,7 +9658,7 @@ msgstr "Narzędzia do zbierania i wyświetlania danych używające oficjalnego p
 
 #: src/components/_other/shop/skinPack.frontConfig.tsx:53
 msgid "White suit, gold everything"
-msgstr ""
+msgstr "Biały garnitur, złote wszystko"
 
 #: src/pages/companies.tsx:103
 msgid "Whole Production"
@@ -9675,7 +9675,7 @@ msgstr "Zwycięzca"
 
 #: src/components/_other/shop/skinPack.frontConfig.tsx:36
 msgid "Winter Soldier Pack"
-msgstr ""
+msgstr "Zestaw Zimowego Żołnierza"
 
 #: src/components/_economy/workOffer/EstimatedCompanyBenefit.tsx:185
 msgid "with bonus"
@@ -9696,7 +9696,7 @@ msgstr "Wycofaj się"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:185
 msgid "Wizard Hat"
-msgstr ""
+msgstr "Czarodziejski Kapelusz"
 
 #: src/components/_military/tournament/TournamentHeader.tsx:91
 #: src/pages/events/index.tsx:116
@@ -9709,11 +9709,11 @@ msgstr "Drewno"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:251
 msgid "Wooden Self Bow"
-msgstr ""
+msgstr "Drewniany Łuk Prosty"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:254
 msgid "Woolly Mammoth"
-msgstr ""
+msgstr "Włochaty Mamut"
 
 #: src/components/_economy/company/WorkButton.tsx:247
 #: src/components/_user/mission/mission.frontConfig.tsx:100
@@ -10036,7 +10036,7 @@ msgstr "Otrzymałeś łup za miejsce <0>#{0}</0> w <1/>"
 #. placeholder {1}: data.rank && ( <> position{' '} <Typo fw='bold' color='text1'> #{data.rank} </Typo> </> )
 #: src/components/_user/notification/notification.frontConfig.tsx:1406
 msgid "You received a reward for {0} {1} in<0/> tier in the ranking <1/>"
-msgstr "Otrzymałeś nagrodę za {0} {1} w poziomie<0/> w rankingu <1/>"
+msgstr "Otrzymałeś nagrodę za {0} {1} w progach<0/> w rankingu <1/>"
 
 #: src/components/_user/notification/notification.frontConfig.tsx:1936
 msgid "You received the skin \"{skinTitle}\"!"
